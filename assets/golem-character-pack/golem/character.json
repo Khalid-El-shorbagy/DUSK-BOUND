@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-character-pack-v1",
+  "delivery_id": "golem",
+  "workspace_id": "golem",
+  "project_id": "golem",
+  "asset_id": "golem",
+  "character_id": "golem",
+  "animations": [
+    {
+      "name": "idle_east",
+      "action_id": "idle",
+      "direction": "east",
+      "version_id": "golem",
+      "loop": true,
+      "frame_count": 21,
+      "total_duration_ms": 4200,
+      "export": "animations/idle_east/export.json",
+      "atlas": "animations/idle_east/atlas.png",
+      "export_sha256": "11e80a90a7cfe30091f6c0ff04ba738ef41e1c2fa7c1363cd2a2bf74c87e530a",
+      "atlas_sha256": "31f7128bb891546b0845c1262c8f17d17dae66f53347ed13b244eaabe02b776a"
+    },
+    {
+      "name": "idle_west",
+      "action_id": "idle",
+      "direction": "west",
+      "version_id": "golem",
+      "loop": true,
+      "frame_count": 21,
+      "total_duration_ms": 4200,
+      "export": "animations/idle_west/export.json",
+      "atlas": "animations/idle_west/atlas.png",
+      "export_sha256": "21362d5075cf5ad5739a4b87e5c14aaf0dd3bd4232113c9be0f49d1ecc391301",
+      "atlas_sha256": "fbef947f4017e36ca2d457bafc83e132c21ad29755ca38bd8876596dbb2686e2"
+    },
+    {
+      "name": "walk_east",
+      "action_id": "walk",
+      "direction": "east",
+      "version_id": "golem",
+      "loop": true,
+      "frame_count": 20,
+      "total_duration_ms": 2000,
+      "export": "animations/walk_east/export.json",
+      "atlas": "animations/walk_east/atlas.png",
+      "export_sha256": "5f6b9cc07ed54293177d8b3495257b5c6a6ee001271715e678458e2f0c8b7ce3",
+      "atlas_sha256": "822a6edc08b159a81b2d322c9ea1b434c792a0f72418fa21a68078fed00792e7"
+    },
+    {
+      "name": "walk_west",
+      "action_id": "walk",
+      "direction": "west",
+      "version_id": "golem",
+      "loop": true,
+      "frame_count": 20,
+      "total_duration_ms": 2000,
+      "export": "animations/walk_west/export.json",
+      "atlas": "animations/walk_west/atlas.png",
+      "export_sha256": "528b3f7215204f4b2d7d26e47012a71cb2075cf033884c386a907b233d712496",
+      "atlas_sha256": "0c7a1e54f5f374e2d7b306ebcb1a98cd173e75e36686ec33b361698d0b447295"
+    },
+    {
+      "name": "attack_east",
+      "action_id": "attack",
+      "direction": "east",
+      "version_id": "golem",
+      "loop": false,
+      "frame_count": 28,
+      "total_duration_ms": 1876,
+      "export": "animations/attack_east/export.json",
+      "atlas": "animations/attack_east/atlas.png",
+      "export_sha256": "892a9649a35ba2f57a20b8d0fa6dc0d576abd1efa6c55c246c6a3a49373ff35c",
+      "atlas_sha256": "28a07d368f7c6515748218539ea759b1dbd675a0c1d14133bf24d33e296f69ac"
+    },
+    {
+      "name": "attack_west",
+      "action_id": "attack",
+      "direction": "west",
+      "version_id": "golem",
+      "loop": false,
+      "frame_count": 28,
+      "total_duration_ms": 1876,
+      "export": "animations/attack_west/export.json",
+      "atlas": "animations/attack_west/atlas.png",
+      "export_sha256": "cc4d5577b46e13c1b5e46b744f4aef0fb4e15ad2e8a91a1659865c76ac78a2ef",
+      "atlas_sha256": "7da5e5519e96a2a78e213b8ee7bdd93498648e11483705c0511216a0cc6870c8"
+    },
+    {
+      "name": "hurt_east",
+      "action_id": "hurt",
+      "direction": "east",
+      "version_id": "golem",
+      "loop": false,
+      "frame_count": 8,
+      "total_duration_ms": 536,
+      "export": "animations/hurt_east/export.json",
+      "atlas": "animations/hurt_east/atlas.png",
+      "export_sha256": "3ddbc292013aa6a708195409e3d21c50a43cd55279a543f5eae173f98321dc31",
+      "atlas_sha256": "8397a622e0937b297b99f12e119f61af3454dcf4ebd7098efda4fb900a376787"
+    },
+    {
+      "name": "hurt_west",
+      "action_id": "hurt",
+      "direction": "west",
+      "version_id": "golem",
+      "loop": false,
+      "frame_count": 8,
+      "total_duration_ms": 536,
+      "export": "animations/hurt_west/export.json",
+      "atlas": "animations/hurt_west/atlas.png",
+      "export_sha256": "4a87b27bcb42dc304168e7da5cab13e8f3356922f7c9e4d5593b4c2c5452d5d3",
+      "atlas_sha256": "3dbba0e138678b2ac8e55d655ec44eb7703a3943e776fe7778075a8ddf2395b6"
+    },
+    {
+      "name": "death_east",
+      "action_id": "death",
+      "direction": "east",
+      "version_id": "golem",
+      "loop": false,
+      "frame_count": 24,
+      "total_duration_ms": 1608,
+      "export": "animations/death_east/export.json",
+      "atlas": "animations/death_east/atlas.png",
+      "export_sha256": "3f8c15cc48603206c42c49c482fb3dd2af05d1871c976c3bff06426ea233ed68",
+      "atlas_sha256": "981f49c1648a99489b81312edea8a05dcf286ecc203b6acc21165680b322dd03"
+    },
+    {
+      "name": "death_west",
+      "action_id": "death",
+      "direction": "west",
+      "version_id": "golem",
+      "loop": false,
+      "frame_count": 24,
+      "total_duration_ms": 1608,
+      "export": "animations/death_west/export.json",
+      "atlas": "animations/death_west/atlas.png",
+      "export_sha256": "067f2e9ea3ac3c17af007bf60ee72881e3f934b6611443ed3ed83e27cb8f49bc",
+      "atlas_sha256": "6757272a9eded5c44671192a0ebc3f7f3662e9166918b1ec0300168aeb0f4088"
+    }
+  ],
+  "godot": {
+    "sprite_frames": "godot/character.tres",
+    "scene": "godot/character.tscn",
+    "pivot_anchor": {
+      "x": 149,
+      "y": 271
+    }
+  }
+}

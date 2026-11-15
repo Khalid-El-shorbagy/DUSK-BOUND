@@ -1,0 +1,518 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "goblin",
+    "project_id": "goblin",
+    "asset_id": "goblin",
+    "version_id": "goblin",
+    "character_id": "goblin",
+    "action_id": "death",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2384,
+    "height": 873,
+    "sha256": "df2085c7551530fa61ad344ccf63e91de878b9be5578f90b40b43e60568dd29c",
+    "byte_length": 668739
+  },
+  "frames": [
+    {
+      "frame_id": "goblin-death_east-0",
+      "file": "frames/goblin-death_east-0.png",
+      "sha256": "9028c038165887f9bf332aa32057301caae09f9355666ee8a3d74347a7ca999a",
+      "byte_length": 39701,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-1",
+      "file": "frames/goblin-death_east-1.png",
+      "sha256": "98031cd2115ca96dac5fd971c427994e8f47d2a24b0667977317c5043776a53c",
+      "byte_length": 39835,
+      "duration_ms": 71,
+      "rect": {
+        "x": 298,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-2",
+      "file": "frames/goblin-death_east-2.png",
+      "sha256": "62c7fde41b7d2de160a8af5b6604f68f96a12a2caf69e6173f9bd26d8461a7b4",
+      "byte_length": 39006,
+      "duration_ms": 71,
+      "rect": {
+        "x": 596,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-3",
+      "file": "frames/goblin-death_east-3.png",
+      "sha256": "b190aa7e3bb6ecefef540064e3402889d515838a3fa675345ade1b374581f821",
+      "byte_length": 36339,
+      "duration_ms": 71,
+      "rect": {
+        "x": 894,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-4",
+      "file": "frames/goblin-death_east-4.png",
+      "sha256": "4dea119b7b0ef6a4d848afea7263fa31fa0f69a7bc0fbb2435eba27421118de8",
+      "byte_length": 35461,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1192,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-5",
+      "file": "frames/goblin-death_east-5.png",
+      "sha256": "1322f1171740a07ec715ac728432c0d81fc0df81c0e75d797c65061d15469505",
+      "byte_length": 36040,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1490,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-6",
+      "file": "frames/goblin-death_east-6.png",
+      "sha256": "f9a4a2183b9fbbaf8cc5dbf87bcf23b50323666185fe24de0db119e4f7f9ffbc",
+      "byte_length": 36322,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1788,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-7",
+      "file": "frames/goblin-death_east-7.png",
+      "sha256": "61705592708a62047068ee27c3bdf1027f18ae9970b41ec08b560e5197aa4dea",
+      "byte_length": 38317,
+      "duration_ms": 71,
+      "rect": {
+        "x": 2086,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-8",
+      "file": "frames/goblin-death_east-8.png",
+      "sha256": "9b975b2f0f183cbff75ef78a08655cfef878dbf50272cd8afec0d230818647dd",
+      "byte_length": 39194,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-9",
+      "file": "frames/goblin-death_east-9.png",
+      "sha256": "5d7468a581b9325438a274e1579895c2460123cf551ddaf6d4922e0b8fc90e0b",
+      "byte_length": 40463,
+      "duration_ms": 71,
+      "rect": {
+        "x": 298,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-10",
+      "file": "frames/goblin-death_east-10.png",
+      "sha256": "5e3d5ea37b8bd93ff6f71fe905596f2955ae7a2a36993eeeeea233fe30730731",
+      "byte_length": 39696,
+      "duration_ms": 71,
+      "rect": {
+        "x": 596,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-11",
+      "file": "frames/goblin-death_east-11.png",
+      "sha256": "ec4e817c99ab562971773faab750069d535fbd657775919ba797cea76413820c",
+      "byte_length": 35781,
+      "duration_ms": 71,
+      "rect": {
+        "x": 894,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-12",
+      "file": "frames/goblin-death_east-12.png",
+      "sha256": "7e5efdfc9e6ed1bc4287622f9aa524ec6668d6c66c5996b8e40ff18d62146461",
+      "byte_length": 36555,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1192,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-13",
+      "file": "frames/goblin-death_east-13.png",
+      "sha256": "d4f12620fe8d148790b7159a4d35c875b3c2a3030f61696bc391abb34cedd14c",
+      "byte_length": 39153,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1490,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-14",
+      "file": "frames/goblin-death_east-14.png",
+      "sha256": "6184bbf124a2b3f33f5907eba8ad2c090cef87fdf2effaab34c489b18ff435b0",
+      "byte_length": 39155,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1788,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-15",
+      "file": "frames/goblin-death_east-15.png",
+      "sha256": "8c934f06d0a788fa8f8e410e8ddd736d3eb423f7c63dc299aa0bffb5a6e8f9c1",
+      "byte_length": 34486,
+      "duration_ms": 71,
+      "rect": {
+        "x": 2086,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-16",
+      "file": "frames/goblin-death_east-16.png",
+      "sha256": "b0ccca8172a0189db375f956eeff11a9b84f49dcbe8bdb06663ffd2e31b5b20e",
+      "byte_length": 34159,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-17",
+      "file": "frames/goblin-death_east-17.png",
+      "sha256": "86514cc8127e69a4985a6e9f208a237c0f9b303249500cecc5f13dcd9cedbce0",
+      "byte_length": 34981,
+      "duration_ms": 71,
+      "rect": {
+        "x": 298,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-death_east-18",
+      "file": "frames/goblin-death_east-18.png",
+      "sha256": "40f705c7cf595f4417ae98468f1c2ac769c96ec2b658bfec2a1255732c83194e",
+      "byte_length": 35181,
+      "duration_ms": 71,
+      "rect": {
+        "x": 596,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1349,
+  "loop": false
+}

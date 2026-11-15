@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "mushroom",
+    "project_id": "mushroom",
+    "asset_id": "mushroom",
+    "version_id": "mushroom",
+    "character_id": "mushroom",
+    "action_id": "idle",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1768,
+    "height": 468,
+    "sha256": "f71ba143858f9d7c5c7929af5eded5b23213c7edd91d95694c42cda3ae15c633",
+    "byte_length": 554133
+  },
+  "frames": [
+    {
+      "frame_id": "mushroom-idle_west-0",
+      "file": "frames/mushroom-idle_west-0.png",
+      "sha256": "2f9d3b24abe43a194e6561c7f1704f5d4b4eed670bb19a1baf8aa288dfbf382f",
+      "byte_length": 27891,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-1",
+      "file": "frames/mushroom-idle_west-1.png",
+      "sha256": "c3cd48cc14207160db77fa641372be0c4c707e97711b365fbf8fbc9ac91b6aed",
+      "byte_length": 28695,
+      "duration_ms": 200,
+      "rect": {
+        "x": 221,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-2",
+      "file": "frames/mushroom-idle_west-2.png",
+      "sha256": "3666ec976e8b9e3906ed79dfb0078ac4fd5eeeae3f4b7d345b61b95fa1ec6968",
+      "byte_length": 28820,
+      "duration_ms": 200,
+      "rect": {
+        "x": 442,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-3",
+      "file": "frames/mushroom-idle_west-3.png",
+      "sha256": "a99aa42aecc1f001823950ad693babe2be54a077aa75f0346293999c8a876b0c",
+      "byte_length": 29422,
+      "duration_ms": 200,
+      "rect": {
+        "x": 663,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-4",
+      "file": "frames/mushroom-idle_west-4.png",
+      "sha256": "7ae2a14d99f9a1cdf84fdd380d2f736eea84beae65b4f9d83c182441fe37def8",
+      "byte_length": 29537,
+      "duration_ms": 200,
+      "rect": {
+        "x": 884,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-5",
+      "file": "frames/mushroom-idle_west-5.png",
+      "sha256": "60f5de9854ce40643a87995b040285747eb50d58719aa5b48af5ec0a56a290ff",
+      "byte_length": 29385,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1105,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-6",
+      "file": "frames/mushroom-idle_west-6.png",
+      "sha256": "04118200d6a5be6bc2512170e5c2d708231cfd13a7d4bb2666d10f94ab30e4e1",
+      "byte_length": 29232,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1326,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-7",
+      "file": "frames/mushroom-idle_west-7.png",
+      "sha256": "0ad1bbd0c625af5e99cb44b736d9320aee3c55aa42de2ec2bf58528e9f06bca4",
+      "byte_length": 29420,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1547,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-8",
+      "file": "frames/mushroom-idle_west-8.png",
+      "sha256": "93a883f0b7ddf1f7b2112abc3fbcc01bb88af891dfe23b63615e4076aafc99be",
+      "byte_length": 29449,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-9",
+      "file": "frames/mushroom-idle_west-9.png",
+      "sha256": "b1c6210927d8b6db0e4049d1416fe116e63d0c8ebffc8d4d9b7d773f360a1295",
+      "byte_length": 29448,
+      "duration_ms": 200,
+      "rect": {
+        "x": 221,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-10",
+      "file": "frames/mushroom-idle_west-10.png",
+      "sha256": "d92b495629efba1ca7c07ef4bba8079d540b7db85dc87e65482a447f26170e82",
+      "byte_length": 29249,
+      "duration_ms": 200,
+      "rect": {
+        "x": 442,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-11",
+      "file": "frames/mushroom-idle_west-11.png",
+      "sha256": "6070cb9a28e95a7bbc033000d91f0283676e84bd4d0f382eef5b78d9d3ab7169",
+      "byte_length": 29699,
+      "duration_ms": 200,
+      "rect": {
+        "x": 663,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-12",
+      "file": "frames/mushroom-idle_west-12.png",
+      "sha256": "24a599e79069beef358402f140437f05c9fffda9a39d87877ba8ce559c0a6114",
+      "byte_length": 29675,
+      "duration_ms": 200,
+      "rect": {
+        "x": 884,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-13",
+      "file": "frames/mushroom-idle_west-13.png",
+      "sha256": "b762f83415915853c65938bc917712c9c380019ab98608e5d2bd39298c76bea1",
+      "byte_length": 29521,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1105,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-14",
+      "file": "frames/mushroom-idle_west-14.png",
+      "sha256": "d197ef5b956268f3b6ddde50303a4fe3efcacd1087672915ba827ab8ef31d29f",
+      "byte_length": 29165,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1326,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-15",
+      "file": "frames/mushroom-idle_west-15.png",
+      "sha256": "d06171dd27e3bcfee008770c22455ff2f248ee07d43e4563d53532722643e145",
+      "byte_length": 29689,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1547,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-16",
+      "file": "frames/mushroom-idle_west-16.png",
+      "sha256": "bcdb9a128264c24f30672dbbc957aee0486c9f7bf2a5af3cf155878c4ee99a2e",
+      "byte_length": 29944,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-17",
+      "file": "frames/mushroom-idle_west-17.png",
+      "sha256": "4e7dfe98d6d3eef4a8e7a5bd68d2efc77f1ebf8fa6343547c7bdfb343ebc02f4",
+      "byte_length": 29932,
+      "duration_ms": 200,
+      "rect": {
+        "x": 221,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-18",
+      "file": "frames/mushroom-idle_west-18.png",
+      "sha256": "657ae25ceffd78175daa5b25f21a7ed552f9afa9c66a28232a47a7b9c55f7698",
+      "byte_length": 30067,
+      "duration_ms": 200,
+      "rect": {
+        "x": 442,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-19",
+      "file": "frames/mushroom-idle_west-19.png",
+      "sha256": "482af4bd75f0743203778c55643003a21f90c8be535add460d7c0081805cb480",
+      "byte_length": 30083,
+      "duration_ms": 200,
+      "rect": {
+        "x": 663,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-idle_west-20",
+      "file": "frames/mushroom-idle_west-20.png",
+      "sha256": "3896f26cda079d11b03624dc98a51b4185dfd768381301053466f8e5d1599a15",
+      "byte_length": 30069,
+      "duration_ms": 200,
+      "rect": {
+        "x": 884,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.46153846153846156,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 4200,
+  "loop": true
+}

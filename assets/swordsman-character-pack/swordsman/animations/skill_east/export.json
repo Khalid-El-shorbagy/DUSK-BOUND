@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "swordsman",
+    "project_id": "swordsman",
+    "asset_id": "swordsman",
+    "version_id": "swordsman",
+    "character_id": "swordsman",
+    "action_id": "skill",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 3072,
+    "height": 1024,
+    "sha256": "c7cb980fd1466ce2e2ec1459bcefe114c5f512d63782763a2a05ad6f4d04e693",
+    "byte_length": 1117215
+  },
+  "frames": [
+    {
+      "frame_id": "swordsman-skill_east-0",
+      "file": "frames/swordsman-skill_east-0.png",
+      "sha256": "73a6c82f95789fa8c14f7e7e3333d401f2b945f31fb557784692a1ed35d31e83",
+      "byte_length": 46344,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-1",
+      "file": "frames/swordsman-skill_east-1.png",
+      "sha256": "343cfea2fd5710315ff413f94c5aedc106927e7a90960ff13e840d761633e856",
+      "byte_length": 45721,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-2",
+      "file": "frames/swordsman-skill_east-2.png",
+      "sha256": "de4e8d36d620d749ae492e2cf2a9180cc6fba69492bc4df4024d09331721fadb",
+      "byte_length": 45798,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-3",
+      "file": "frames/swordsman-skill_east-3.png",
+      "sha256": "45be955b1b09fd0eb39125bb92f2e12d804cd74bf9488f91769d8111a744d371",
+      "byte_length": 50596,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-4",
+      "file": "frames/swordsman-skill_east-4.png",
+      "sha256": "dd02c51a9acaad270ddcb911851705d1f6cc70373f45c1565ea5eb3b6602ece3",
+      "byte_length": 50593,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-5",
+      "file": "frames/swordsman-skill_east-5.png",
+      "sha256": "e0017bc7fdbbf892efdeb12a58691deb087f91a282ce38dc1ad3eb7fce723c04",
+      "byte_length": 51251,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-6",
+      "file": "frames/swordsman-skill_east-6.png",
+      "sha256": "7974705b685f84c849291bb8cf1675934c9b0dd16ad2dbea3fb4f0a47b8c5393",
+      "byte_length": 50912,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-7",
+      "file": "frames/swordsman-skill_east-7.png",
+      "sha256": "0fbbf92cbb4128ddbba76334d6a15a2e8ef1bfef0e7c405415c764f2e7a3f5b5",
+      "byte_length": 42426,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-8",
+      "file": "frames/swordsman-skill_east-8.png",
+      "sha256": "0b4146a72ce04b340ca82e208da9fd6f918a4d82560c8ce272651ad6fb6a0a4d",
+      "byte_length": 42988,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-9",
+      "file": "frames/swordsman-skill_east-9.png",
+      "sha256": "17dec797dd161263c4d6c498bcd3ac6db0b8bf2f2ff5ef1e0aa42c08b057adb5",
+      "byte_length": 43785,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-10",
+      "file": "frames/swordsman-skill_east-10.png",
+      "sha256": "db0053d38c7268c4e4a77e07b67b6a3d15f06c3a86347997aa03950df2f9e8ac",
+      "byte_length": 44582,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-11",
+      "file": "frames/swordsman-skill_east-11.png",
+      "sha256": "8fa6780368a066f1d9447e544eef600448832074b46e55f4e31fd87afd7b6626",
+      "byte_length": 43139,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-12",
+      "file": "frames/swordsman-skill_east-12.png",
+      "sha256": "67158b0b135a337dfc8d7bbc72fbe3d5f17150d9bb2862a247a1a0a564603119",
+      "byte_length": 42327,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-13",
+      "file": "frames/swordsman-skill_east-13.png",
+      "sha256": "a0d75a39a6197cdbc63f96febcf1173b94ae01adae6c8eefff80f9975d18dd37",
+      "byte_length": 42040,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-14",
+      "file": "frames/swordsman-skill_east-14.png",
+      "sha256": "cf065e215196d3ff3697b12e67012ba38cf999d9b15da422ba461fdc008624ec",
+      "byte_length": 41853,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-15",
+      "file": "frames/swordsman-skill_east-15.png",
+      "sha256": "6d92b4d80be3ce69579dc3aa2c6787c532a81147433f3c70e208f309a9ad39d5",
+      "byte_length": 41715,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-16",
+      "file": "frames/swordsman-skill_east-16.png",
+      "sha256": "1fcfbfe25432cfa582f6eca48384743d0e3940d897e09cafacbdd6a75ac3a473",
+      "byte_length": 41859,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-17",
+      "file": "frames/swordsman-skill_east-17.png",
+      "sha256": "8a9d48e1007638e3e258e23b07330aaa87ea2f81a159ec50b526129946f53423",
+      "byte_length": 41791,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-18",
+      "file": "frames/swordsman-skill_east-18.png",
+      "sha256": "e60c6b19c1f6b22e205f06f137d9cd6e261a837ff601c19f962ee0e631a36c18",
+      "byte_length": 41977,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-19",
+      "file": "frames/swordsman-skill_east-19.png",
+      "sha256": "d804ca1711b8ea134ac86067ed8c8485a0845dd645bf040254c55b5d99d7bb5b",
+      "byte_length": 43319,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-20",
+      "file": "frames/swordsman-skill_east-20.png",
+      "sha256": "fa594bb336a689143853476d2938bd7cf111b5b5929e1cbefcf309fe36f0976f",
+      "byte_length": 43585,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-21",
+      "file": "frames/swordsman-skill_east-21.png",
+      "sha256": "cda4d4f1da88773106f4d93690f3d74187ffc23374bea454a522b90761fffba7",
+      "byte_length": 45937,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-22",
+      "file": "frames/swordsman-skill_east-22.png",
+      "sha256": "b3761ff1687a3e95231b8f64d1465d76863e5cbe6e87017365f5f77086580e93",
+      "byte_length": 47640,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-23",
+      "file": "frames/swordsman-skill_east-23.png",
+      "sha256": "43a991998f0982b0fc059c5016d2c867784c914ca4d17832c4d86e824080bbe5",
+      "byte_length": 48511,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-skill_east-24",
+      "file": "frames/swordsman-skill_east-24.png",
+      "sha256": "0149044a7d0253df1895a96f2480f677ef4fd94063aeabd456c874c46c2ec129",
+      "byte_length": 49125,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1575,
+  "loop": false
+}

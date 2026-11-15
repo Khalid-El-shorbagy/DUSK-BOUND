@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "mushroom",
+    "project_id": "mushroom",
+    "asset_id": "mushroom",
+    "version_id": "mushroom",
+    "character_id": "mushroom",
+    "action_id": "hurt",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1768,
+    "height": 312,
+    "sha256": "316d1ced941286711e497030f1ed48f4076fb0f0224184474f776e25b409bc53",
+    "byte_length": 309050
+  },
+  "frames": [
+    {
+      "frame_id": "mushroom-hurt_east-0",
+      "file": "frames/mushroom-hurt_east-0.png",
+      "sha256": "4252db943bd4482ca1031a95498abd97d2c29a23060fa5a4c1500422636e81fc",
+      "byte_length": 28272,
+      "duration_ms": 56,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-1",
+      "file": "frames/mushroom-hurt_east-1.png",
+      "sha256": "fd08e7d2ef6090bb5547522f45a2ae27c294dcc501c36a48957851ae1bc8b0f2",
+      "byte_length": 28332,
+      "duration_ms": 56,
+      "rect": {
+        "x": 221,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-2",
+      "file": "frames/mushroom-hurt_east-2.png",
+      "sha256": "fc5ae0f5571134c41e45c05b1a251d457bdc3c69368e4157308e38f376ed65af",
+      "byte_length": 28412,
+      "duration_ms": 56,
+      "rect": {
+        "x": 442,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-3",
+      "file": "frames/mushroom-hurt_east-3.png",
+      "sha256": "1ac7b5cf34bf8b06ffda10314730c36ba9fe853aabaf0590dc6c2b7c84469770",
+      "byte_length": 28368,
+      "duration_ms": 56,
+      "rect": {
+        "x": 663,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-4",
+      "file": "frames/mushroom-hurt_east-4.png",
+      "sha256": "049a4a14e62f11265c3b090ace9622fe5b36637232a5fde8fa50081df3f34cbb",
+      "byte_length": 28047,
+      "duration_ms": 56,
+      "rect": {
+        "x": 884,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-5",
+      "file": "frames/mushroom-hurt_east-5.png",
+      "sha256": "8c9c1f202258785d332726cfd7931b41d6f613d9f6a184b129c95862dea40b60",
+      "byte_length": 29174,
+      "duration_ms": 56,
+      "rect": {
+        "x": 1105,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-6",
+      "file": "frames/mushroom-hurt_east-6.png",
+      "sha256": "987ff80c80d0cc9a948a58cecf01eb35d76b3934240613eb35badc859258f45a",
+      "byte_length": 29076,
+      "duration_ms": 56,
+      "rect": {
+        "x": 1326,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-7",
+      "file": "frames/mushroom-hurt_east-7.png",
+      "sha256": "58d44e295605a2351c2e21a7e3b815005cebe5bd54047545274a79baff3cf1ec",
+      "byte_length": 28051,
+      "duration_ms": 56,
+      "rect": {
+        "x": 1547,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-8",
+      "file": "frames/mushroom-hurt_east-8.png",
+      "sha256": "b8351cd1e631e0e389439e32b3d26736ef6d6780347aa3e42bc8b98dbcbc358b",
+      "byte_length": 29204,
+      "duration_ms": 56,
+      "rect": {
+        "x": 0,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-9",
+      "file": "frames/mushroom-hurt_east-9.png",
+      "sha256": "1003a8ca03b97985ea58f493255b2beb410c0963b1204319e7c164fc7cfedee1",
+      "byte_length": 29074,
+      "duration_ms": 56,
+      "rect": {
+        "x": 221,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-hurt_east-10",
+      "file": "frames/mushroom-hurt_east-10.png",
+      "sha256": "263e13df7ecc421e998427f329e089f29b26d63bfb69c4539a4b0bb84d05268f",
+      "byte_length": 29095,
+      "duration_ms": 56,
+      "rect": {
+        "x": 442,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 616,
+  "loop": false
+}

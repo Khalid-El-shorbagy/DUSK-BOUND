@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "golem",
+    "project_id": "golem",
+    "asset_id": "golem",
+    "version_id": "golem",
+    "character_id": "golem",
+    "action_id": "death",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2304,
+    "height": 903,
+    "sha256": "6757272a9eded5c44671192a0ebc3f7f3662e9166918b1ec0300168aeb0f4088",
+    "byte_length": 1819810
+  },
+  "frames": [
+    {
+      "frame_id": "golem-death_west-0",
+      "file": "frames/golem-death_west-0.png",
+      "sha256": "5e57a6e4a3486d4a9c435622cfd343778f5c5131eb3683819e7f01d6a27e4347",
+      "byte_length": 85869,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-1",
+      "file": "frames/golem-death_west-1.png",
+      "sha256": "7a01e2d91f573491561a7bb9ff18bb339f450d4b33462439ade9e7cfc4f7a469",
+      "byte_length": 85743,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-2",
+      "file": "frames/golem-death_west-2.png",
+      "sha256": "ee1e6c672eec1e386bbb9c9be9065bbe3960d9f363e3c394caa327db61185453",
+      "byte_length": 85130,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-3",
+      "file": "frames/golem-death_west-3.png",
+      "sha256": "a9d6c0b5d463ffaa858ac49ddd464cff7ebdc57a8568ad67603f45cd49be5b2a",
+      "byte_length": 85787,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-4",
+      "file": "frames/golem-death_west-4.png",
+      "sha256": "205626c3bb50c7bf76bd25cb0c905dafce14a429ec2bb6a75a40dfd8ff321ba4",
+      "byte_length": 86595,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-5",
+      "file": "frames/golem-death_west-5.png",
+      "sha256": "81425da67b49a1f915e0e6f96c41cd3330efb1668fa5fba23523bedd1f9ad1d3",
+      "byte_length": 87631,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-6",
+      "file": "frames/golem-death_west-6.png",
+      "sha256": "1c0996d742b7ad66905fd4d8e9ccf9944c3e43b3e3068e2c38ab9398a045f69f",
+      "byte_length": 87622,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-7",
+      "file": "frames/golem-death_west-7.png",
+      "sha256": "8d8286949cb7c7b5b135e0046992ed9687743c86fa654b535180942f5857f5d6",
+      "byte_length": 87708,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-8",
+      "file": "frames/golem-death_west-8.png",
+      "sha256": "f2bdf4f7ef85d2f8c40e6b550a4d028ec43a68840caef0bc95369a24a2f9d524",
+      "byte_length": 87209,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-9",
+      "file": "frames/golem-death_west-9.png",
+      "sha256": "6d744f75a115071486bca3737a3fcb4d34fbb9516d5206c75de89d3a94257d19",
+      "byte_length": 84892,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-10",
+      "file": "frames/golem-death_west-10.png",
+      "sha256": "fa90af62400932dee26c46e390836ca1e68e421e1bd1746ce3e9ba5d19560bde",
+      "byte_length": 82364,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-11",
+      "file": "frames/golem-death_west-11.png",
+      "sha256": "d5ef71ce34e284cafb3cc3eee676ff3342ce08dbeec71a985ae086c16f1c831f",
+      "byte_length": 74683,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-12",
+      "file": "frames/golem-death_west-12.png",
+      "sha256": "adb77f135b696b909254b1c61b66fc2edba534cc608edfc45d05e8d220a62db7",
+      "byte_length": 71917,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-13",
+      "file": "frames/golem-death_west-13.png",
+      "sha256": "22ee9ba67aae265dfe651d210ecac6c48d43fe7bcbf4289747725794c6d4973e",
+      "byte_length": 76202,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-14",
+      "file": "frames/golem-death_west-14.png",
+      "sha256": "d0781d125eb385c97f1d77648cb0034f97de47dbb3c0964cda961a11240d1fdd",
+      "byte_length": 77163,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-15",
+      "file": "frames/golem-death_west-15.png",
+      "sha256": "a7ff46716fcc849f75beaa22b4a47000493691747cfc8703994321b5258711fc",
+      "byte_length": 78508,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-16",
+      "file": "frames/golem-death_west-16.png",
+      "sha256": "47350ccc5042e97fb56fdc1f2c1925b7513420c185bcf11e8be304f26474c1fd",
+      "byte_length": 78349,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-17",
+      "file": "frames/golem-death_west-17.png",
+      "sha256": "8dfe9053d9c68765d58102f5939795f11a006c53abd885ab9a1bf2b084b1506e",
+      "byte_length": 78825,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-18",
+      "file": "frames/golem-death_west-18.png",
+      "sha256": "cce6dc6f477d48e3e652923bc38f7ca2d261ddf45e6007d182acd1d852465729",
+      "byte_length": 78887,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-19",
+      "file": "frames/golem-death_west-19.png",
+      "sha256": "3ff4501bfedee304288e6d0553ccbb6626a060660e10cb401c1705d8745dc09d",
+      "byte_length": 76202,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-20",
+      "file": "frames/golem-death_west-20.png",
+      "sha256": "f525d4559acf400deb53f173c84ee8d1408a11e570f6a1bdc27aa62c22491f9e",
+      "byte_length": 73317,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-21",
+      "file": "frames/golem-death_west-21.png",
+      "sha256": "98a2fa15cecaad73bdd8a87ff797d65b57b5d08d4099e8cfe171740730c15c53",
+      "byte_length": 59801,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-22",
+      "file": "frames/golem-death_west-22.png",
+      "sha256": "7f169bfd3223ca87c24b8826b563fa9c022d3728b3e94efc8ea51fddd37e6a58",
+      "byte_length": 59436,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-death_west-23",
+      "file": "frames/golem-death_west-23.png",
+      "sha256": "e88d9ff8f5c5a9a378b7cbecf68bb8655ff2fce8ba661e25b75f5da3c9644a6a",
+      "byte_length": 60454,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1608,
+  "loop": false
+}

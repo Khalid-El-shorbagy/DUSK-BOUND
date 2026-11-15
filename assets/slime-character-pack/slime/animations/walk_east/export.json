@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "slime",
+    "project_id": "slime",
+    "asset_id": "slime",
+    "version_id": "slime",
+    "character_id": "slime",
+    "action_id": "walk",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1424,
+    "height": 328,
+    "sha256": "34b8de6e77b46d5fdaf6b5678aa5898eafad4fab85ba684187600c233a93be45",
+    "byte_length": 199723
+  },
+  "frames": [
+    {
+      "frame_id": "slime-walk_east-0",
+      "file": "frames/slime-walk_east-0.png",
+      "sha256": "1144a38e5e36b3cd305ad625ba96e4654b9b3bdb7a06f4c37af7c3d0f7e0d39d",
+      "byte_length": 16613,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-1",
+      "file": "frames/slime-walk_east-1.png",
+      "sha256": "495dffe2239b4f6e637042c5fafab058aaab1754558e559fce6668c36eefa63c",
+      "byte_length": 16800,
+      "duration_ms": 83,
+      "rect": {
+        "x": 178,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-2",
+      "file": "frames/slime-walk_east-2.png",
+      "sha256": "a7b41e636452f63e743b5849c94a6188c7ba80c2401aec7ef4a33716d3853bff",
+      "byte_length": 17093,
+      "duration_ms": 83,
+      "rect": {
+        "x": 356,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-3",
+      "file": "frames/slime-walk_east-3.png",
+      "sha256": "83b1f332ef96d8b90299ee98d2bf251c3ee2812565ad4ea34a11053359d432ae",
+      "byte_length": 16822,
+      "duration_ms": 83,
+      "rect": {
+        "x": 534,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-4",
+      "file": "frames/slime-walk_east-4.png",
+      "sha256": "0154c1f6bafe2786c0d9c2a94cb284afaa6edf028032121b4d4555d76e8163e9",
+      "byte_length": 17012,
+      "duration_ms": 83,
+      "rect": {
+        "x": 712,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-5",
+      "file": "frames/slime-walk_east-5.png",
+      "sha256": "259d96640fcbc76f5b7d33e44ed0b8f9d5b574db9352d41d5dd30eac29a835a4",
+      "byte_length": 16957,
+      "duration_ms": 83,
+      "rect": {
+        "x": 890,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-6",
+      "file": "frames/slime-walk_east-6.png",
+      "sha256": "3f82105e631ef44b56797d8bc53915ec2fd66ad50ed40c232b1845a2f30f26e9",
+      "byte_length": 16776,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1068,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-7",
+      "file": "frames/slime-walk_east-7.png",
+      "sha256": "2b421a4f3eb4ab278bf5c415c3bab48dd52a7ddca3c927f3e38a75ed34c2705b",
+      "byte_length": 17409,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1246,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-8",
+      "file": "frames/slime-walk_east-8.png",
+      "sha256": "e3d3ae87b890453986afef7199993fa467a42b7b171b4eb0713524057e02d53f",
+      "byte_length": 16984,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-9",
+      "file": "frames/slime-walk_east-9.png",
+      "sha256": "c9213379653b4c3bbca36071deb2145d9b8aab88667157386d7f3978216d3200",
+      "byte_length": 16989,
+      "duration_ms": 83,
+      "rect": {
+        "x": 178,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-10",
+      "file": "frames/slime-walk_east-10.png",
+      "sha256": "99f884e4bfe74d11d36db57f80fd6c0d6fed82a7862a9e9b9825aeb05c7e6f2f",
+      "byte_length": 17133,
+      "duration_ms": 83,
+      "rect": {
+        "x": 356,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-walk_east-11",
+      "file": "frames/slime-walk_east-11.png",
+      "sha256": "7915b32bcfee7fd288bc51dbb2ea090db34f0d58a60910f4c81c61a5192c9be3",
+      "byte_length": 16884,
+      "duration_ms": 83,
+      "rect": {
+        "x": 534,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 996,
+  "loop": true
+}

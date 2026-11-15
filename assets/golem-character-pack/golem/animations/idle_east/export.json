@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "golem",
+    "project_id": "golem",
+    "asset_id": "golem",
+    "version_id": "golem",
+    "character_id": "golem",
+    "action_id": "idle",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2304,
+    "height": 903,
+    "sha256": "31f7128bb891546b0845c1262c8f17d17dae66f53347ed13b244eaabe02b776a",
+    "byte_length": 1722558
+  },
+  "frames": [
+    {
+      "frame_id": "golem-idle_east-0",
+      "file": "frames/golem-idle_east-0.png",
+      "sha256": "1bcfcfe1c55db6161618dca202fb8dbe578d9cc40b97a937f095d6c0a642f237",
+      "byte_length": 85400,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-1",
+      "file": "frames/golem-idle_east-1.png",
+      "sha256": "486c1d23aad71c6644f25a9b921f3125266a6c55f1910db9dd8b68ffa94f5e88",
+      "byte_length": 85031,
+      "duration_ms": 200,
+      "rect": {
+        "x": 288,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-2",
+      "file": "frames/golem-idle_east-2.png",
+      "sha256": "4f821260ba83f5845d88085b19b2b32eff37bf842a32a386435ab4b4bce09276",
+      "byte_length": 85076,
+      "duration_ms": 200,
+      "rect": {
+        "x": 576,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-3",
+      "file": "frames/golem-idle_east-3.png",
+      "sha256": "18cfafbe14117f9430870962e408880151044992e9534ecadf4254ab8ed7b329",
+      "byte_length": 84531,
+      "duration_ms": 200,
+      "rect": {
+        "x": 864,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-4",
+      "file": "frames/golem-idle_east-4.png",
+      "sha256": "f3aec73bbd26b928f26b2219454e7f7b243793cea9d9b2f6fd06a37f97355f59",
+      "byte_length": 84052,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-5",
+      "file": "frames/golem-idle_east-5.png",
+      "sha256": "bbb95a3216a7e9800b7446e82ed1963f2e68fbe47995bab3563678d881dafc86",
+      "byte_length": 84743,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1440,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-6",
+      "file": "frames/golem-idle_east-6.png",
+      "sha256": "2e56bd3c218e107f03723deb53319bdad97598ca94f8f76926ec1ab1b7e7790b",
+      "byte_length": 84974,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1728,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-7",
+      "file": "frames/golem-idle_east-7.png",
+      "sha256": "27b08cdea7af8613b15db4f01d73c4ff45e4d28870861ce835fb03322355bfb8",
+      "byte_length": 84172,
+      "duration_ms": 200,
+      "rect": {
+        "x": 2016,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-8",
+      "file": "frames/golem-idle_east-8.png",
+      "sha256": "9177229177d8cfb99cdae26337decafd61a15522439fc933eae4403ca3660963",
+      "byte_length": 85027,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-9",
+      "file": "frames/golem-idle_east-9.png",
+      "sha256": "568da98d7612063dde0a1bef5782869a6f521ff816b0e329f6a7980f9b14bc26",
+      "byte_length": 84800,
+      "duration_ms": 200,
+      "rect": {
+        "x": 288,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-10",
+      "file": "frames/golem-idle_east-10.png",
+      "sha256": "2ec0978aad0fd3960e0c5865c6391482370441a2794683cf035779e17975c47e",
+      "byte_length": 85096,
+      "duration_ms": 200,
+      "rect": {
+        "x": 576,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-11",
+      "file": "frames/golem-idle_east-11.png",
+      "sha256": "eac6c22632e2bdc731a3865838a18c53342474443a1cb203d223df5402a49037",
+      "byte_length": 84227,
+      "duration_ms": 200,
+      "rect": {
+        "x": 864,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-12",
+      "file": "frames/golem-idle_east-12.png",
+      "sha256": "3063a271030889bb583986d133c3d76f2afd913734e676b0fbbfb535c8c03f38",
+      "byte_length": 85027,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1152,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-13",
+      "file": "frames/golem-idle_east-13.png",
+      "sha256": "906ebfbc77d1e1720b78529b6b13de47ae6abeb17e9bc52e66559fce9b2bf1b3",
+      "byte_length": 84768,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1440,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-14",
+      "file": "frames/golem-idle_east-14.png",
+      "sha256": "3d0d231c1eaa89b1f7d15144a1cb08ac2169c48f84c61adcbd145b9869c9ae98",
+      "byte_length": 84267,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1728,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-15",
+      "file": "frames/golem-idle_east-15.png",
+      "sha256": "ffbb8ca2eb258aa8128b5e6fd73a8cf580d935e2a1acdb1b9765cedefac9dbb7",
+      "byte_length": 85059,
+      "duration_ms": 200,
+      "rect": {
+        "x": 2016,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-16",
+      "file": "frames/golem-idle_east-16.png",
+      "sha256": "329117d41fb27db0324d382c6e3a32a309c132209ef5dd60c5092c4af416b71e",
+      "byte_length": 85079,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-17",
+      "file": "frames/golem-idle_east-17.png",
+      "sha256": "48f7211bc35078a87cf798de70021e2679ade19c1f227bcfa714e3eea22711bc",
+      "byte_length": 84695,
+      "duration_ms": 200,
+      "rect": {
+        "x": 288,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-18",
+      "file": "frames/golem-idle_east-18.png",
+      "sha256": "3f6485c55bf363481e1d5e23c35b1fcaeca299c72ea676534a783e1d290fa325",
+      "byte_length": 85033,
+      "duration_ms": 200,
+      "rect": {
+        "x": 576,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-19",
+      "file": "frames/golem-idle_east-19.png",
+      "sha256": "b741949620037462fd23c0883148aeb7470bac7acaa3651defbd6e7f8ad3e60c",
+      "byte_length": 85018,
+      "duration_ms": 200,
+      "rect": {
+        "x": 864,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-idle_east-20",
+      "file": "frames/golem-idle_east-20.png",
+      "sha256": "2eb172163db13faff749cb3b8e1eaec3fba31ab31d28b5bd35c99bc9b1fefe2d",
+      "byte_length": 85406,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1152,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 4200,
+  "loop": true
+}

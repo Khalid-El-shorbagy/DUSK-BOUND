@@ -1,0 +1,752 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "golem",
+    "project_id": "golem",
+    "asset_id": "golem",
+    "version_id": "golem",
+    "character_id": "golem",
+    "action_id": "attack",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2304,
+    "height": 1204,
+    "sha256": "28a07d368f7c6515748218539ea759b1dbd675a0c1d14133bf24d33e296f69ac",
+    "byte_length": 2180255
+  },
+  "frames": [
+    {
+      "frame_id": "golem-attack_east-0",
+      "file": "frames/golem-attack_east-0.png",
+      "sha256": "33cca1b65902dfec88960c7c5f8dcd312932e79cec2388cd9b6001acb0bdae7d",
+      "byte_length": 87710,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-1",
+      "file": "frames/golem-attack_east-1.png",
+      "sha256": "6aabdb7edcc0a92af6ad6934ef62c44dc66b0a68cfc8f2f4775bf6ead3e8626e",
+      "byte_length": 86391,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-2",
+      "file": "frames/golem-attack_east-2.png",
+      "sha256": "acfcf9b52bdf05c0d750535d33d5c5db65fef4d201e4c17c43e4dbaee7888cc1",
+      "byte_length": 82482,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-3",
+      "file": "frames/golem-attack_east-3.png",
+      "sha256": "6312e5a56e81951b0e42d7b09e4968aa09ca660eee5872fd628091160bf7c217",
+      "byte_length": 80499,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-4",
+      "file": "frames/golem-attack_east-4.png",
+      "sha256": "b849c7e0fcd7fe0e1ad6f6aec4b6abb37e32d581c1cd5a914f7e2ed8706de429",
+      "byte_length": 77388,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-5",
+      "file": "frames/golem-attack_east-5.png",
+      "sha256": "70930b328722be1e75497a47ec3f442b42ff059f7905c2939b1fcfe6f22fc0ba",
+      "byte_length": 75187,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-6",
+      "file": "frames/golem-attack_east-6.png",
+      "sha256": "bb51fd829ac4411ca452dc08906a545273aa3f16774df387fca7e71c5a7d46cd",
+      "byte_length": 71479,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-7",
+      "file": "frames/golem-attack_east-7.png",
+      "sha256": "bb2d4fb8c6acd3e463226d8c90809e5df585d92fe4e850cce5dd99864eb2ba9c",
+      "byte_length": 71382,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-8",
+      "file": "frames/golem-attack_east-8.png",
+      "sha256": "d59c76667ae1beaee9d98b8668a89f87e6742be04d5a696d6772d6a375d17d23",
+      "byte_length": 74264,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-9",
+      "file": "frames/golem-attack_east-9.png",
+      "sha256": "a6db08b824b6c640d68b89d770a5c088428b41ab8328fd796de3134e9a164f87",
+      "byte_length": 77897,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-10",
+      "file": "frames/golem-attack_east-10.png",
+      "sha256": "9107fc65295d8cb6fc0e7d87417acd03c75ef7d9268ab21c175c3b02af4fb026",
+      "byte_length": 82281,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-11",
+      "file": "frames/golem-attack_east-11.png",
+      "sha256": "775c09d1acb4ba65979b95551712caa99d2c6620c1b27fe52113556527654ebf",
+      "byte_length": 82856,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-12",
+      "file": "frames/golem-attack_east-12.png",
+      "sha256": "4968d0340feb204bf682738a9758787673e665bb8e25ce5fba113e4af0a8c110",
+      "byte_length": 81716,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-13",
+      "file": "frames/golem-attack_east-13.png",
+      "sha256": "01efb96b8f0299aca28b7d92c6ae692a143e3fb8fe6e7b0c5715f35aacf85ae5",
+      "byte_length": 78020,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-14",
+      "file": "frames/golem-attack_east-14.png",
+      "sha256": "3b3f2502777d019b97fc070c52927c339f878a2b5aead86a36d13bdd88e06b97",
+      "byte_length": 72210,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-15",
+      "file": "frames/golem-attack_east-15.png",
+      "sha256": "a33095db7a1c8ef586f4074f080848814e9577eb6c86272d216b9bed4dd8e3c8",
+      "byte_length": 82842,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-16",
+      "file": "frames/golem-attack_east-16.png",
+      "sha256": "573f41f6dbe923f154969cead59fa03798fa28f08119f7d8adc5f6257b928d12",
+      "byte_length": 80884,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-17",
+      "file": "frames/golem-attack_east-17.png",
+      "sha256": "3fb381cac2ce1dba492dc2dbedc290d87e89174585406a91f37b39e88da7c0e6",
+      "byte_length": 81646,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-18",
+      "file": "frames/golem-attack_east-18.png",
+      "sha256": "60689881c1979ad6cfd81892ac82de4b167d43a6750b0f96a44c7b4cc62e1a25",
+      "byte_length": 82506,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-19",
+      "file": "frames/golem-attack_east-19.png",
+      "sha256": "19fe50ee045dcd091e5580d97a2ed22569587f76a6b1d66e788f5f1f49474e2d",
+      "byte_length": 83190,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-20",
+      "file": "frames/golem-attack_east-20.png",
+      "sha256": "97a6c95518c76f6474b3c1e7334be7bd8c266860fabc92854aa9a22d44b30784",
+      "byte_length": 83054,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-21",
+      "file": "frames/golem-attack_east-21.png",
+      "sha256": "771fad5c2909c4cdbe0adaba20357695018d343d6196aea0cfea9b9f1b45531a",
+      "byte_length": 82425,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-22",
+      "file": "frames/golem-attack_east-22.png",
+      "sha256": "bc11f4e654bc34ecddde17d4bbe9ce1f4be12a8cab2f927f1482f0f3153ccddf",
+      "byte_length": 82222,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-23",
+      "file": "frames/golem-attack_east-23.png",
+      "sha256": "69a9704bcacf3300658b741738d81447685b7b679f96fc120e2cc82e3c72ad0b",
+      "byte_length": 79915,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-24",
+      "file": "frames/golem-attack_east-24.png",
+      "sha256": "4c5de4f025b575b2f93bb962561f9484b222c27b44793ef56945898894a5e636",
+      "byte_length": 82476,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 903,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-25",
+      "file": "frames/golem-attack_east-25.png",
+      "sha256": "8fa446c23918274d9539c66f60d12b921ed9592e127af3363f358b037f18a47d",
+      "byte_length": 84180,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 903,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-26",
+      "file": "frames/golem-attack_east-26.png",
+      "sha256": "e7eb3c0ef95eb8ad95ca0c404ed3649b5c9bb4c5a14f4b9c9aa6572109ab7e1c",
+      "byte_length": 88208,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 903,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-attack_east-27",
+      "file": "frames/golem-attack_east-27.png",
+      "sha256": "56ab3f84f55f276b2f08575b1bfb32a7efb6d238f4f0b6b7203428bd70d621cf",
+      "byte_length": 90648,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 903,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1876,
+  "loop": false
+}

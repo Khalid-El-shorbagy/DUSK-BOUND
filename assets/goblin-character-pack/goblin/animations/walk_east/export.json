@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "goblin",
+    "project_id": "goblin",
+    "asset_id": "goblin",
+    "version_id": "goblin",
+    "character_id": "goblin",
+    "action_id": "walk",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2384,
+    "height": 873,
+    "sha256": "d8bc7042c8f8f61c143e3982b0c04c9df2b024c78ed0352d8d02bb3588d66fc1",
+    "byte_length": 756936
+  },
+  "frames": [
+    {
+      "frame_id": "goblin-walk_east-0",
+      "file": "frames/goblin-walk_east-0.png",
+      "sha256": "f3bc1a22c81ac3b2b1e69d45cda3b7ec198e6717dd0b16784adb45a1e48aa551",
+      "byte_length": 37284,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-1",
+      "file": "frames/goblin-walk_east-1.png",
+      "sha256": "8444cc7375fa980782b718a7d23b82d01e3fbffc00ceee9b97020594ade2c950",
+      "byte_length": 38189,
+      "duration_ms": 83,
+      "rect": {
+        "x": 298,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-2",
+      "file": "frames/goblin-walk_east-2.png",
+      "sha256": "2127e77486c6af11474ff4021421f37d78f53d9e6c570a646964f0a861576ec0",
+      "byte_length": 38304,
+      "duration_ms": 83,
+      "rect": {
+        "x": 596,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-3",
+      "file": "frames/goblin-walk_east-3.png",
+      "sha256": "cf2a034ff2fdf4e733657f22e9c48214302376f700fb7a8acbad4f914a09fe28",
+      "byte_length": 37729,
+      "duration_ms": 83,
+      "rect": {
+        "x": 894,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-4",
+      "file": "frames/goblin-walk_east-4.png",
+      "sha256": "0e0b3a268774b2bf4886e1ac8a985721ec9ed1c0e56e84b890a2f513a1d1be33",
+      "byte_length": 37307,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1192,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-5",
+      "file": "frames/goblin-walk_east-5.png",
+      "sha256": "29e287733be60f0f8c2bcd43f111315a5a3f416fed117bb315dc6c5577b29bc1",
+      "byte_length": 36223,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1490,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-6",
+      "file": "frames/goblin-walk_east-6.png",
+      "sha256": "0e901040343d3ea58723fce7423a566e5ac16825f6e85ab70b75d0fb5ed1d6c1",
+      "byte_length": 36011,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1788,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-7",
+      "file": "frames/goblin-walk_east-7.png",
+      "sha256": "9904246cfba65f0e22bee373f8f92c059bf4dc3f1dc973fa0acb8465e22b380e",
+      "byte_length": 36977,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2086,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-8",
+      "file": "frames/goblin-walk_east-8.png",
+      "sha256": "daf08db33d3ff78d2adad83bf3b50a8dcb68b9531691a594d3e954bda4686afe",
+      "byte_length": 37126,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-9",
+      "file": "frames/goblin-walk_east-9.png",
+      "sha256": "9cb71490009bb1103ef72304a9c4cf73e061ebd0be2190d99365e8963c6ee1e3",
+      "byte_length": 39751,
+      "duration_ms": 83,
+      "rect": {
+        "x": 298,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-10",
+      "file": "frames/goblin-walk_east-10.png",
+      "sha256": "5b78e717900b0131737766c347dc7814c91177316071e58a442284bc375d3792",
+      "byte_length": 40212,
+      "duration_ms": 83,
+      "rect": {
+        "x": 596,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-11",
+      "file": "frames/goblin-walk_east-11.png",
+      "sha256": "aa952576231fa6cc80674b719d2f95b6dd74ffeb6fed0e30c68c93dddf92ca10",
+      "byte_length": 40952,
+      "duration_ms": 83,
+      "rect": {
+        "x": 894,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-12",
+      "file": "frames/goblin-walk_east-12.png",
+      "sha256": "ce08844ff4fba80ccbd8cb4f4bf61ce567f540ba20cc8b3505bf21fbe1c83fd1",
+      "byte_length": 41333,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1192,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-13",
+      "file": "frames/goblin-walk_east-13.png",
+      "sha256": "801cf46e054acb0893c33a6aed234e2a7f8a19913aa8f92c36b8fac8fe646aba",
+      "byte_length": 41057,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1490,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-14",
+      "file": "frames/goblin-walk_east-14.png",
+      "sha256": "005c635dd9f8bd9be78abefeba47d038822f20ec6830d3f01dfe62928f8425ca",
+      "byte_length": 40147,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1788,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-15",
+      "file": "frames/goblin-walk_east-15.png",
+      "sha256": "3a5f40cb89c4c5256ebddbb1a16add38fd8ffb94fbc3fe87528ecb590ac3a898",
+      "byte_length": 40325,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2086,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-16",
+      "file": "frames/goblin-walk_east-16.png",
+      "sha256": "efa6665fd0d2f8529d5207ec9606ba8f7f35a308cfaf9aef57e9a250aa3353d5",
+      "byte_length": 39537,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-17",
+      "file": "frames/goblin-walk_east-17.png",
+      "sha256": "b78bfd90e1e9eb7d03c82758e530f67cbaaa87a8127eb12942e6bbcab76ffc77",
+      "byte_length": 39651,
+      "duration_ms": 83,
+      "rect": {
+        "x": 298,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-18",
+      "file": "frames/goblin-walk_east-18.png",
+      "sha256": "9e7f4af3eed116d9c75fd1f08e5664e35f5be7e3a651fa8d2cd572e918a11c2c",
+      "byte_length": 38810,
+      "duration_ms": 83,
+      "rect": {
+        "x": 596,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-walk_east-19",
+      "file": "frames/goblin-walk_east-19.png",
+      "sha256": "ff3727a14db5b9301682cacf081f8e32ac4318b939cf94a7bc9a09aa2ec17c31",
+      "byte_length": 37992,
+      "duration_ms": 83,
+      "rect": {
+        "x": 894,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1660,
+  "loop": true
+}

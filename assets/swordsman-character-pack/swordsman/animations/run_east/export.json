@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "swordsman",
+    "project_id": "swordsman",
+    "asset_id": "swordsman",
+    "version_id": "swordsman",
+    "character_id": "swordsman",
+    "action_id": "run",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 3072,
+    "height": 512,
+    "sha256": "6266d61e1541ce6718c3c8e88e3a40da473459e95f83c85d58c0a8a4ae2c3ed4",
+    "byte_length": 478796
+  },
+  "frames": [
+    {
+      "frame_id": "swordsman-run_east-0",
+      "file": "frames/swordsman-run_east-0.png",
+      "sha256": "7a73c8d77decffe479c75346ea4947aae1c951f85f69be93f354ce2a069c53f0",
+      "byte_length": 56595,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-1",
+      "file": "frames/swordsman-run_east-1.png",
+      "sha256": "403dfd2f4804c0f09c951eec5f267faf63ad963978153d30d370250435cc5f3c",
+      "byte_length": 58528,
+      "duration_ms": 83,
+      "rect": {
+        "x": 384,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-2",
+      "file": "frames/swordsman-run_east-2.png",
+      "sha256": "7faf45089f0e22fb3cc2c5989d1f6e676939ab083a31073020ad26ce71be0d86",
+      "byte_length": 53047,
+      "duration_ms": 83,
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-3",
+      "file": "frames/swordsman-run_east-3.png",
+      "sha256": "1503beb10e4f7891e6e8553d8ab2f184d307f2eb4701dc38a42f56dd646b71e9",
+      "byte_length": 52433,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-4",
+      "file": "frames/swordsman-run_east-4.png",
+      "sha256": "936a3e80b9865fcda47cb95e62ce23bf4385cc6a572cb1743f797724f0e853b7",
+      "byte_length": 50408,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-5",
+      "file": "frames/swordsman-run_east-5.png",
+      "sha256": "dfd6aaafa6a557259115675a4359361ac0cb92999eef4a3839a29a8f90480760",
+      "byte_length": 53067,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1920,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-6",
+      "file": "frames/swordsman-run_east-6.png",
+      "sha256": "b2e5e91fba3a7a37d008c3db2eb1bb6be3b96a0fe8257cda191c9020d456155c",
+      "byte_length": 50511,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-7",
+      "file": "frames/swordsman-run_east-7.png",
+      "sha256": "eeb2347af98b1f20e23741b28d5a1b6ed5b82d8f90c4f9c3df7fa79f91fe0a66",
+      "byte_length": 50954,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2688,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-run_east-8",
+      "file": "frames/swordsman-run_east-8.png",
+      "sha256": "e65416d8074dbe09be37857a5a80df4274e7751a553bdd39d9f16b71a8087295",
+      "byte_length": 53491,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 747,
+  "loop": true
+}

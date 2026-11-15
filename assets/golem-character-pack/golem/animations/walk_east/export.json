@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "golem",
+    "project_id": "golem",
+    "asset_id": "golem",
+    "version_id": "golem",
+    "character_id": "golem",
+    "action_id": "walk",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2304,
+    "height": 903,
+    "sha256": "822a6edc08b159a81b2d322c9ea1b434c792a0f72418fa21a68078fed00792e7",
+    "byte_length": 1803769
+  },
+  "frames": [
+    {
+      "frame_id": "golem-walk_east-0",
+      "file": "frames/golem-walk_east-0.png",
+      "sha256": "1e7012cc9c7f8635fb6809be69f1cdce64aca23733f54358088bbb350789e892",
+      "byte_length": 91324,
+      "duration_ms": 100,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-1",
+      "file": "frames/golem-walk_east-1.png",
+      "sha256": "20471ccfef326bafe145d3382f4e263f5c87ae950555e7a6404d92bf372c40fe",
+      "byte_length": 91059,
+      "duration_ms": 100,
+      "rect": {
+        "x": 288,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-2",
+      "file": "frames/golem-walk_east-2.png",
+      "sha256": "13c530b3c3d7c6ab905e3b71f85b0fbd4dad9c319d59df9a9b4a7c8a5e8770f2",
+      "byte_length": 90257,
+      "duration_ms": 100,
+      "rect": {
+        "x": 576,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-3",
+      "file": "frames/golem-walk_east-3.png",
+      "sha256": "534a438c61bc81349e4616f05e86e8fac5e2bb8fa63262af251afb526786e604",
+      "byte_length": 90696,
+      "duration_ms": 100,
+      "rect": {
+        "x": 864,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-4",
+      "file": "frames/golem-walk_east-4.png",
+      "sha256": "0b96085c5605a0d2515cd7fc6b9910a994f590ca82dba4ee5d64390eaa200866",
+      "byte_length": 89760,
+      "duration_ms": 100,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-5",
+      "file": "frames/golem-walk_east-5.png",
+      "sha256": "3b47d9aefdbdf03dd17598f3c13dc38c7a805c7e71f19955b84e7eceba32e9f3",
+      "byte_length": 90407,
+      "duration_ms": 100,
+      "rect": {
+        "x": 1440,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-6",
+      "file": "frames/golem-walk_east-6.png",
+      "sha256": "ac3f603fd22c04abeaf010a925d679003a19c99328b4b484096c5be07f290b59",
+      "byte_length": 90164,
+      "duration_ms": 100,
+      "rect": {
+        "x": 1728,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-7",
+      "file": "frames/golem-walk_east-7.png",
+      "sha256": "249546cef34553087cc4d48d1dde714942d05955ce00b626a7ff892cde4273a2",
+      "byte_length": 90748,
+      "duration_ms": 100,
+      "rect": {
+        "x": 2016,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-8",
+      "file": "frames/golem-walk_east-8.png",
+      "sha256": "0c28e75a60f209cac796d91401a10aa1426738527b866c056a3b1d544df401d7",
+      "byte_length": 89616,
+      "duration_ms": 100,
+      "rect": {
+        "x": 0,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-9",
+      "file": "frames/golem-walk_east-9.png",
+      "sha256": "b6ca421195d25ae99b1c0175891fd9d4f01c8be914d51da39068f798aa738af2",
+      "byte_length": 89763,
+      "duration_ms": 100,
+      "rect": {
+        "x": 288,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-10",
+      "file": "frames/golem-walk_east-10.png",
+      "sha256": "baf5d7baf7e4172bdad17684b8af7a96b90b7d343e57294fd4a73d4907a95d78",
+      "byte_length": 89436,
+      "duration_ms": 100,
+      "rect": {
+        "x": 576,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-11",
+      "file": "frames/golem-walk_east-11.png",
+      "sha256": "2556b44d9538f72a07b81f47d1dfa240ec1df6b84219466b90eec0d858f71b5a",
+      "byte_length": 90793,
+      "duration_ms": 100,
+      "rect": {
+        "x": 864,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-12",
+      "file": "frames/golem-walk_east-12.png",
+      "sha256": "49e8f54e66c1389d28c553a9eb7f7a21c91138cfbf3b5a72b59eb9cf5cfeebfc",
+      "byte_length": 90681,
+      "duration_ms": 100,
+      "rect": {
+        "x": 1152,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-13",
+      "file": "frames/golem-walk_east-13.png",
+      "sha256": "44083e28f0425142374fe099f670cf13c7aeb82265d80451e7f7c67dab83e533",
+      "byte_length": 91613,
+      "duration_ms": 100,
+      "rect": {
+        "x": 1440,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-14",
+      "file": "frames/golem-walk_east-14.png",
+      "sha256": "d449d8d5de9c56da1fca503f8fc49d40f87ecbf862206161ee55a588002bf58f",
+      "byte_length": 91291,
+      "duration_ms": 100,
+      "rect": {
+        "x": 1728,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-15",
+      "file": "frames/golem-walk_east-15.png",
+      "sha256": "3eda608df82af5acb095506567aa908458f19a8595a51163422da9df9f6dabce",
+      "byte_length": 92048,
+      "duration_ms": 100,
+      "rect": {
+        "x": 2016,
+        "y": 301,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-16",
+      "file": "frames/golem-walk_east-16.png",
+      "sha256": "ca4bddcf76acb2daec5c96f79c37ee0977af34fc6b02f73f06869809225ca834",
+      "byte_length": 92058,
+      "duration_ms": 100,
+      "rect": {
+        "x": 0,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-17",
+      "file": "frames/golem-walk_east-17.png",
+      "sha256": "d7e72ff21889d04bbc041870fc09e918a2e051cf40bdef93a467c4ba3d4e0d4e",
+      "byte_length": 92523,
+      "duration_ms": 100,
+      "rect": {
+        "x": 288,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-18",
+      "file": "frames/golem-walk_east-18.png",
+      "sha256": "8385b47d9c373e0378cd35cc123c98c19e4506cd6024da958a8013dc5f4ffca8",
+      "byte_length": 93207,
+      "duration_ms": 100,
+      "rect": {
+        "x": 576,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-walk_east-19",
+      "file": "frames/golem-walk_east-19.png",
+      "sha256": "cf1c133f2be9a76b2bd56c78921aab51da7aa0c7838472f71bd97adae408d4fa",
+      "byte_length": 93990,
+      "duration_ms": 100,
+      "rect": {
+        "x": 864,
+        "y": 602,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.48263888888888884,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 2000,
+  "loop": true
+}

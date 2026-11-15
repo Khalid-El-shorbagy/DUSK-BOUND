@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "golem",
+    "project_id": "golem",
+    "asset_id": "golem",
+    "version_id": "golem",
+    "character_id": "golem",
+    "action_id": "hurt",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2304,
+    "height": 301,
+    "sha256": "3dbba0e138678b2ac8e55d655ec44eb7703a3943e776fe7778075a8ddf2395b6",
+    "byte_length": 412585
+  },
+  "frames": [
+    {
+      "frame_id": "golem-hurt_west-0",
+      "file": "frames/golem-hurt_west-0.png",
+      "sha256": "c332485c55344100ee59ead159d0dea16b9ef9731f9c3df655a8275c6f41dc71",
+      "byte_length": 85033,
+      "duration_ms": 67,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-1",
+      "file": "frames/golem-hurt_west-1.png",
+      "sha256": "38e9e3eaef6884c5210a0ef72263e3f96126fb7e2b4d7b30ecdfa25a7eee3702",
+      "byte_length": 80159,
+      "duration_ms": 67,
+      "rect": {
+        "x": 288,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-2",
+      "file": "frames/golem-hurt_west-2.png",
+      "sha256": "0c77f02277450830010122dbae72982032f4c776aeb7ac316ad978e5001b3b2a",
+      "byte_length": 80865,
+      "duration_ms": 67,
+      "rect": {
+        "x": 576,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-3",
+      "file": "frames/golem-hurt_west-3.png",
+      "sha256": "5def29bab7e941d541dd3cf688db9bbd4f754c663b12819549c582ae517165fe",
+      "byte_length": 81081,
+      "duration_ms": 67,
+      "rect": {
+        "x": 864,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-4",
+      "file": "frames/golem-hurt_west-4.png",
+      "sha256": "77157bbe3e36c7311bb58962cc0312105771aa1e51ed389f470fb781abeb972f",
+      "byte_length": 82183,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-5",
+      "file": "frames/golem-hurt_west-5.png",
+      "sha256": "5def29bab7e941d541dd3cf688db9bbd4f754c663b12819549c582ae517165fe",
+      "byte_length": 81081,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1440,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-6",
+      "file": "frames/golem-hurt_west-6.png",
+      "sha256": "0c77f02277450830010122dbae72982032f4c776aeb7ac316ad978e5001b3b2a",
+      "byte_length": 80865,
+      "duration_ms": 67,
+      "rect": {
+        "x": 1728,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "golem-hurt_west-7",
+      "file": "frames/golem-hurt_west-7.png",
+      "sha256": "38e9e3eaef6884c5210a0ef72263e3f96126fb7e2b4d7b30ecdfa25a7eee3702",
+      "byte_length": 80159,
+      "duration_ms": 67,
+      "rect": {
+        "x": 2016,
+        "y": 0,
+        "width": 288,
+        "height": 301
+      },
+      "source_size": {
+        "width": 288,
+        "height": 301
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5173611111111112,
+        "y": 0.9003322259136213
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 536,
+  "loop": false
+}

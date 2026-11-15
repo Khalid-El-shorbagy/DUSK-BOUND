@@ -1,0 +1,934 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "swordsman",
+    "project_id": "swordsman",
+    "asset_id": "swordsman",
+    "version_id": "swordsman",
+    "character_id": "swordsman",
+    "action_id": "idle",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 3072,
+    "height": 1280,
+    "sha256": "c969b9a3b4d4dd110ce4b72faef89a55a36afc6d831701341b59fb787bbdb9da",
+    "byte_length": 1826082
+  },
+  "frames": [
+    {
+      "frame_id": "swordsman-idle_east-0",
+      "file": "frames/swordsman-idle_east-0.png",
+      "sha256": "09f256aa877e31ce845863ab28ab7a7ae45927fa120b4fe3af3934bd8e475ba1",
+      "byte_length": 53865,
+      "duration_ms": 111,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-1",
+      "file": "frames/swordsman-idle_east-1.png",
+      "sha256": "97ba4a3f77a469d403febacaa3fb090eafcbe29a818efcad17fbf641e9751fe2",
+      "byte_length": 53919,
+      "duration_ms": 111,
+      "rect": {
+        "x": 384,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-2",
+      "file": "frames/swordsman-idle_east-2.png",
+      "sha256": "28b2b2566f58b068cb0511e31804dbb1c8acb862d211080fb285b7440d18dd96",
+      "byte_length": 53586,
+      "duration_ms": 111,
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-3",
+      "file": "frames/swordsman-idle_east-3.png",
+      "sha256": "7e4f867ba68b48328524897870e4323866cb04b093ab27f4b12e4b18265cc4ec",
+      "byte_length": 53720,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-4",
+      "file": "frames/swordsman-idle_east-4.png",
+      "sha256": "9d559c0e4ba44d4d4084ae0603a43f04c42ccc53edbba43e9f3e51bae6b10a1c",
+      "byte_length": 53692,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-5",
+      "file": "frames/swordsman-idle_east-5.png",
+      "sha256": "3be50f671ec839f75354fa874948c8cac59ff36bd7dbf381f2ecc303f3ad3ddc",
+      "byte_length": 53724,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1920,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-6",
+      "file": "frames/swordsman-idle_east-6.png",
+      "sha256": "9bbfac8b57d054c80a88aa4a74727ac98a1ed537ae3dd4ce115ad4ae3419dbb8",
+      "byte_length": 53242,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-7",
+      "file": "frames/swordsman-idle_east-7.png",
+      "sha256": "44de05a4881b5e9121383e35f7b299f8fec53accb3bd45d8f75e6aa1a3c264f6",
+      "byte_length": 53374,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2688,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-8",
+      "file": "frames/swordsman-idle_east-8.png",
+      "sha256": "a3d4dc69d2e58a5cc5a46cf613eb0eae20efd57b5e747f5bd917f7c3c372f867",
+      "byte_length": 53132,
+      "duration_ms": 111,
+      "rect": {
+        "x": 0,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-9",
+      "file": "frames/swordsman-idle_east-9.png",
+      "sha256": "2ea7e87b264cc5226b9e0369f8ad645e94173b465a3e918318fd1a15ddda82bd",
+      "byte_length": 52506,
+      "duration_ms": 111,
+      "rect": {
+        "x": 384,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-10",
+      "file": "frames/swordsman-idle_east-10.png",
+      "sha256": "f2ecfc75629b03a4c13b412b0cdc96ef3c0893c46e2aafb45a58f089507eb7f3",
+      "byte_length": 52944,
+      "duration_ms": 111,
+      "rect": {
+        "x": 768,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-11",
+      "file": "frames/swordsman-idle_east-11.png",
+      "sha256": "5fd3628267eacb39dc55b438b8aad5fc1518948f6594077965738f5542595deb",
+      "byte_length": 52461,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1152,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-12",
+      "file": "frames/swordsman-idle_east-12.png",
+      "sha256": "0af1d0834ff4114ce42b108346c276b9f8945c98d8dc627d94446196df2b1a72",
+      "byte_length": 53036,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1536,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-13",
+      "file": "frames/swordsman-idle_east-13.png",
+      "sha256": "2c0ce7002ab4d71b74f23c3e38f88752072088efa800b670394b50e417785f34",
+      "byte_length": 53144,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1920,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-14",
+      "file": "frames/swordsman-idle_east-14.png",
+      "sha256": "fa4f8c14c142c051efa3432dfab2ba4ed76039adc65a1443f7ddde4c52e712fd",
+      "byte_length": 53273,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2304,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-15",
+      "file": "frames/swordsman-idle_east-15.png",
+      "sha256": "8dbd895495b251645dfed7b8952a2f394e5049b2f6816236ae2c072c4cfa1c6a",
+      "byte_length": 53066,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2688,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-16",
+      "file": "frames/swordsman-idle_east-16.png",
+      "sha256": "63a2594a9700356fd51ea547c6a3703c922758f85d6d894d015bdf30fc6488bb",
+      "byte_length": 53384,
+      "duration_ms": 111,
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-17",
+      "file": "frames/swordsman-idle_east-17.png",
+      "sha256": "835c6e7dc688dc16db60936226f0010555fef1ea993295649354435b405f89c2",
+      "byte_length": 53461,
+      "duration_ms": 111,
+      "rect": {
+        "x": 384,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-18",
+      "file": "frames/swordsman-idle_east-18.png",
+      "sha256": "9dbc5c9677a1f57bbcb3f42a1a9c960e440b9676395f0c7105364df08a3ccce3",
+      "byte_length": 53070,
+      "duration_ms": 111,
+      "rect": {
+        "x": 768,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-19",
+      "file": "frames/swordsman-idle_east-19.png",
+      "sha256": "c64d9c3800dc9ccf229e83db10cf23efd86093b8e3fbc19581262de8bad585f7",
+      "byte_length": 52878,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1152,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-20",
+      "file": "frames/swordsman-idle_east-20.png",
+      "sha256": "ed93a0c0bb29b4f35de58a55a0f1758f3f1a3a7e2e1b623e5883ebc0cff50231",
+      "byte_length": 53103,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1536,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-21",
+      "file": "frames/swordsman-idle_east-21.png",
+      "sha256": "787a96ed823011cb15218d7952555c434f68abf309ba0d333fd5a4a88fc500c9",
+      "byte_length": 53256,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1920,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-22",
+      "file": "frames/swordsman-idle_east-22.png",
+      "sha256": "d68f37707ee3b4720962ff48b4e4b03d9224014736c4525598ffedb3120f7037",
+      "byte_length": 53841,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2304,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-23",
+      "file": "frames/swordsman-idle_east-23.png",
+      "sha256": "448a5e505e5befc5adf95fedab08484f7a274c924fdcbb4bc7499a44ea62d45a",
+      "byte_length": 53879,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2688,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-24",
+      "file": "frames/swordsman-idle_east-24.png",
+      "sha256": "472d21f1473d63dd39ab4e816c1689a018f45db7f7886e107013b5ddf31e4b47",
+      "byte_length": 53765,
+      "duration_ms": 111,
+      "rect": {
+        "x": 0,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-25",
+      "file": "frames/swordsman-idle_east-25.png",
+      "sha256": "5ac3fa3c4137d90ae811eec5f31d8049a7ab8083976b0b555579361e533845f6",
+      "byte_length": 53902,
+      "duration_ms": 111,
+      "rect": {
+        "x": 384,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-26",
+      "file": "frames/swordsman-idle_east-26.png",
+      "sha256": "46c857bba5780fc0f555bd2a9c05d2904b8147f3688e16a6b31f6ec45b67b61a",
+      "byte_length": 53639,
+      "duration_ms": 111,
+      "rect": {
+        "x": 768,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-27",
+      "file": "frames/swordsman-idle_east-27.png",
+      "sha256": "67cdb56ff9cb47da537a0a5b0e70f76c4abb588e1c70b7d6dd81095998406d17",
+      "byte_length": 54047,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1152,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-28",
+      "file": "frames/swordsman-idle_east-28.png",
+      "sha256": "6720178b36cce42e3cc092d8601117af36c769b7a0145781a522884d4c17d136",
+      "byte_length": 53864,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1536,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-29",
+      "file": "frames/swordsman-idle_east-29.png",
+      "sha256": "1b90651395bae760c5d6c1a3ac66fc4d92d6c9f8777b9545846fbaa514207930",
+      "byte_length": 53880,
+      "duration_ms": 111,
+      "rect": {
+        "x": 1920,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-30",
+      "file": "frames/swordsman-idle_east-30.png",
+      "sha256": "d8aa66c31f51a48b503454839848872c5519ed1a3e468fca72747ea87ef87c76",
+      "byte_length": 54172,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2304,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-31",
+      "file": "frames/swordsman-idle_east-31.png",
+      "sha256": "dba116c3615f6c3a08c4d03bcaefc5417af6d790dd487cf48dc770a43e25a01f",
+      "byte_length": 54149,
+      "duration_ms": 111,
+      "rect": {
+        "x": 2688,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-32",
+      "file": "frames/swordsman-idle_east-32.png",
+      "sha256": "2c68ede11f8485a800bd5e26a9d012679362c8aac46a8ba80538aba7aae98e16",
+      "byte_length": 53935,
+      "duration_ms": 111,
+      "rect": {
+        "x": 0,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-33",
+      "file": "frames/swordsman-idle_east-33.png",
+      "sha256": "c59812efb12776fc3523beebe85364ad853a0a1176b34b023401d54fbe22e6c9",
+      "byte_length": 53995,
+      "duration_ms": 111,
+      "rect": {
+        "x": 384,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-idle_east-34",
+      "file": "frames/swordsman-idle_east-34.png",
+      "sha256": "e113d73806144dba7d6debb9afd7dd653746ab00f79ba4866fd5b60d65a8d038",
+      "byte_length": 53967,
+      "duration_ms": 111,
+      "rect": {
+        "x": 768,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 3885,
+  "loop": true
+}

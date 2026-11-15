@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "mushroom",
+    "project_id": "mushroom",
+    "asset_id": "mushroom",
+    "version_id": "mushroom",
+    "character_id": "mushroom",
+    "action_id": "walk",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1768,
+    "height": 312,
+    "sha256": "3a3a6247a335a6c91bd07831decd5a35ee1ab02316cf9e419bd6fd6e9557898c",
+    "byte_length": 362880
+  },
+  "frames": [
+    {
+      "frame_id": "mushroom-walk_east-0",
+      "file": "frames/mushroom-walk_east-0.png",
+      "sha256": "c9b55773237f7a678f55a2b3d8e0f725b5b106e6da4d988e27a68c992bab1539",
+      "byte_length": 30762,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-1",
+      "file": "frames/mushroom-walk_east-1.png",
+      "sha256": "d07fc98c9631801387e180911a00376005174567ee48d8c2503312721f93c35e",
+      "byte_length": 30510,
+      "duration_ms": 83,
+      "rect": {
+        "x": 221,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-2",
+      "file": "frames/mushroom-walk_east-2.png",
+      "sha256": "5d1adfb22bb0a5d509019a8205bdfeeee6f27b36d6cc8b3646dd1ba32d0451f0",
+      "byte_length": 30052,
+      "duration_ms": 83,
+      "rect": {
+        "x": 442,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-3",
+      "file": "frames/mushroom-walk_east-3.png",
+      "sha256": "858aa6a23e29bd081146d193d85960ab0793e1c68af2d6d0da75dfc5e1a01a35",
+      "byte_length": 30086,
+      "duration_ms": 83,
+      "rect": {
+        "x": 663,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-4",
+      "file": "frames/mushroom-walk_east-4.png",
+      "sha256": "a817e00bb2b7f09816c82879a10ae91f385e326d7223331529bd3142fb6489fa",
+      "byte_length": 30887,
+      "duration_ms": 83,
+      "rect": {
+        "x": 884,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-5",
+      "file": "frames/mushroom-walk_east-5.png",
+      "sha256": "e47a2809f63f01903e18c07368cb3a2b69cf34eeb075bbb246d39a9318a340b3",
+      "byte_length": 31105,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1105,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-6",
+      "file": "frames/mushroom-walk_east-6.png",
+      "sha256": "c8447790808891cf7f0c69196e0b792df256b620f6fc315602524024970968c3",
+      "byte_length": 30689,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1326,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-7",
+      "file": "frames/mushroom-walk_east-7.png",
+      "sha256": "45864a048a24b7553280c15514179024f4d568b4159c9d37bd724a41a11f5f48",
+      "byte_length": 30449,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1547,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-8",
+      "file": "frames/mushroom-walk_east-8.png",
+      "sha256": "b95c55687c6a70bf89d9e7553002d83037b7870a79766ec908e83e898656dc8e",
+      "byte_length": 30454,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-9",
+      "file": "frames/mushroom-walk_east-9.png",
+      "sha256": "3d4d39c53e37cf8b13efea911fb6d9677b0a4bddca75a60bb3f954482392b42e",
+      "byte_length": 30150,
+      "duration_ms": 83,
+      "rect": {
+        "x": 221,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-10",
+      "file": "frames/mushroom-walk_east-10.png",
+      "sha256": "c5e99765731e3ae72dec6f36e5eff5a24ab0be8beabbc67dc72ae94a4cae9c05",
+      "byte_length": 29932,
+      "duration_ms": 83,
+      "rect": {
+        "x": 442,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-walk_east-11",
+      "file": "frames/mushroom-walk_east-11.png",
+      "sha256": "6550872a460c47e87b89fe4957672de74370831665949c5def98610260f524d2",
+      "byte_length": 30517,
+      "duration_ms": 83,
+      "rect": {
+        "x": 663,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 996,
+  "loop": true
+}

@@ -1,0 +1,518 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "mushroom",
+    "project_id": "mushroom",
+    "asset_id": "mushroom",
+    "version_id": "mushroom",
+    "character_id": "mushroom",
+    "action_id": "attack",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1768,
+    "height": 468,
+    "sha256": "3b90f44d9e855a037e369e920437117abb36ad3b01948e14f5003448edda587d",
+    "byte_length": 561465
+  },
+  "frames": [
+    {
+      "frame_id": "mushroom-attack_east-0",
+      "file": "frames/mushroom-attack_east-0.png",
+      "sha256": "abb6793f3fdca843dd14d5b08059e04202402736eede630e40540fdef51be47c",
+      "byte_length": 30228,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-1",
+      "file": "frames/mushroom-attack_east-1.png",
+      "sha256": "7ea6e855422badd283a8d96fdbe48766b474cef726a89acb7b9fe449f33d5d1d",
+      "byte_length": 30671,
+      "duration_ms": 63,
+      "rect": {
+        "x": 221,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-2",
+      "file": "frames/mushroom-attack_east-2.png",
+      "sha256": "eb0fdf7f44b47d27906e218de09a17a2010c134f9d7381184f62a42c6c217663",
+      "byte_length": 30803,
+      "duration_ms": 63,
+      "rect": {
+        "x": 442,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-3",
+      "file": "frames/mushroom-attack_east-3.png",
+      "sha256": "3b8cc772789ba0c980510985d31473552c48af51764aede7ef7bfa22125607ca",
+      "byte_length": 31088,
+      "duration_ms": 63,
+      "rect": {
+        "x": 663,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-4",
+      "file": "frames/mushroom-attack_east-4.png",
+      "sha256": "ea9c082f98dab830410480fe1a6e93152b7c9a5981b32cb3156aa06d3c07ef48",
+      "byte_length": 30731,
+      "duration_ms": 63,
+      "rect": {
+        "x": 884,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-5",
+      "file": "frames/mushroom-attack_east-5.png",
+      "sha256": "63e297eef9622200cb53b1d942fa65da6b0c520e60b89d68c434eb3d4ba23bf7",
+      "byte_length": 30781,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1105,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-6",
+      "file": "frames/mushroom-attack_east-6.png",
+      "sha256": "668e95ff5e3d477015fecf421b1085d9a4219f347b0e306ad175bd8c2438ee70",
+      "byte_length": 30568,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1326,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-7",
+      "file": "frames/mushroom-attack_east-7.png",
+      "sha256": "bb0af568252cb20f78b8407ca0a4b8aa38fa74f2849c3b081e569e0575fc70e6",
+      "byte_length": 30753,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1547,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-8",
+      "file": "frames/mushroom-attack_east-8.png",
+      "sha256": "e8968179a93f3ac76fc2eb30e0c78cecd5c0f0b308e6f15fdc072158707246f7",
+      "byte_length": 30439,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-9",
+      "file": "frames/mushroom-attack_east-9.png",
+      "sha256": "46e53be1517a6929022f743463873b9a6d45f0955938a87e32b24d9446bda905",
+      "byte_length": 30594,
+      "duration_ms": 63,
+      "rect": {
+        "x": 221,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-10",
+      "file": "frames/mushroom-attack_east-10.png",
+      "sha256": "c35e3958f96f2aea859eab620480b69151d4e57af0db04493b10cf43df3fcad7",
+      "byte_length": 30078,
+      "duration_ms": 63,
+      "rect": {
+        "x": 442,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-11",
+      "file": "frames/mushroom-attack_east-11.png",
+      "sha256": "5b9f0da3796a4725f7e091e380b29015c6aca9b44efe2ad8c869e3afd1ded765",
+      "byte_length": 28871,
+      "duration_ms": 63,
+      "rect": {
+        "x": 663,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-12",
+      "file": "frames/mushroom-attack_east-12.png",
+      "sha256": "77bff82608c7eabd09524bbb0af5b65f02c922f6f9489f872fa5802d23a83dfa",
+      "byte_length": 27941,
+      "duration_ms": 63,
+      "rect": {
+        "x": 884,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-13",
+      "file": "frames/mushroom-attack_east-13.png",
+      "sha256": "dbf5673b8ea0b5d92e7dabbf745365883022c0100f71326636f3a7c6a371b9bf",
+      "byte_length": 28503,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1105,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-14",
+      "file": "frames/mushroom-attack_east-14.png",
+      "sha256": "3a496ba84ba3c8f46087348cf1c7d4092e510032fb3205d6575f48f5eca0ef02",
+      "byte_length": 28978,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1326,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-15",
+      "file": "frames/mushroom-attack_east-15.png",
+      "sha256": "658d1d169f6be690091040b1ac3c72e19351d8306259f910fe7812c712bd69f0",
+      "byte_length": 29466,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1547,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-16",
+      "file": "frames/mushroom-attack_east-16.png",
+      "sha256": "65344e263e3ed7c5807f800e8bfd6a8f0bc5796370e1e7eb6e837e57d918a487",
+      "byte_length": 30127,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-17",
+      "file": "frames/mushroom-attack_east-17.png",
+      "sha256": "100d7f9fc0e84bd4b8410d849e49cc7e47144378b4cb5f442759fd993a252375",
+      "byte_length": 30603,
+      "duration_ms": 63,
+      "rect": {
+        "x": 221,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-attack_east-18",
+      "file": "frames/mushroom-attack_east-18.png",
+      "sha256": "547a43fb66f1119b99e87291cbf238664ad7a2bbfba2146a63b7069b81fb56d8",
+      "byte_length": 30759,
+      "duration_ms": 63,
+      "rect": {
+        "x": 442,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1197,
+  "loop": false
+}

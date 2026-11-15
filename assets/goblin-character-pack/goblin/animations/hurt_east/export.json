@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "goblin",
+    "project_id": "goblin",
+    "asset_id": "goblin",
+    "version_id": "goblin",
+    "character_id": "goblin",
+    "action_id": "hurt",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2384,
+    "height": 582,
+    "sha256": "d7d25a751f982aa2dd7c4209ca26f103980179990e3f3e966443f6f6a64c3249",
+    "byte_length": 306757
+  },
+  "frames": [
+    {
+      "frame_id": "goblin-hurt_east-0",
+      "file": "frames/goblin-hurt_east-0.png",
+      "sha256": "6d7356b37f5222f122d22dca7072b11ad8f1af12f7a1c621e932c4b9a9d3fd11",
+      "byte_length": 39125,
+      "duration_ms": 56,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-1",
+      "file": "frames/goblin-hurt_east-1.png",
+      "sha256": "08411bad06aab130e762cd65cd27c03130ec1c36e36818560223dab828054257",
+      "byte_length": 39000,
+      "duration_ms": 56,
+      "rect": {
+        "x": 298,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-2",
+      "file": "frames/goblin-hurt_east-2.png",
+      "sha256": "6c4948fc43a8f00e08e79c84d20865e8d1417750ff8ba9784b0081a20e49cd0c",
+      "byte_length": 38193,
+      "duration_ms": 56,
+      "rect": {
+        "x": 596,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-3",
+      "file": "frames/goblin-hurt_east-3.png",
+      "sha256": "1516b23e039ed637575cac151f1b0ad2f6402114c1ebfc543353bf86daed425f",
+      "byte_length": 37945,
+      "duration_ms": 56,
+      "rect": {
+        "x": 894,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-4",
+      "file": "frames/goblin-hurt_east-4.png",
+      "sha256": "e535e98dd11e3eb0132f3880016bdf1f369d2437d6cee017752c0672c3520edf",
+      "byte_length": 35789,
+      "duration_ms": 56,
+      "rect": {
+        "x": 1192,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-5",
+      "file": "frames/goblin-hurt_east-5.png",
+      "sha256": "0b85a3d84f32e9a0e72526c631971694455798b7541296735e31ea55b8ba0da7",
+      "byte_length": 38510,
+      "duration_ms": 56,
+      "rect": {
+        "x": 1490,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-6",
+      "file": "frames/goblin-hurt_east-6.png",
+      "sha256": "e535e98dd11e3eb0132f3880016bdf1f369d2437d6cee017752c0672c3520edf",
+      "byte_length": 35789,
+      "duration_ms": 56,
+      "rect": {
+        "x": 1788,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-7",
+      "file": "frames/goblin-hurt_east-7.png",
+      "sha256": "1516b23e039ed637575cac151f1b0ad2f6402114c1ebfc543353bf86daed425f",
+      "byte_length": 37945,
+      "duration_ms": 56,
+      "rect": {
+        "x": 2086,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-8",
+      "file": "frames/goblin-hurt_east-8.png",
+      "sha256": "6c4948fc43a8f00e08e79c84d20865e8d1417750ff8ba9784b0081a20e49cd0c",
+      "byte_length": 38193,
+      "duration_ms": 56,
+      "rect": {
+        "x": 0,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-hurt_east-9",
+      "file": "frames/goblin-hurt_east-9.png",
+      "sha256": "08411bad06aab130e762cd65cd27c03130ec1c36e36818560223dab828054257",
+      "byte_length": 39000,
+      "duration_ms": 56,
+      "rect": {
+        "x": 298,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5033557046979866,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 560,
+  "loop": false
+}

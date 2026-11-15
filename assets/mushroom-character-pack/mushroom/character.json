@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-character-pack-v1",
+  "delivery_id": "mushroom",
+  "workspace_id": "mushroom",
+  "project_id": "mushroom",
+  "asset_id": "mushroom",
+  "character_id": "mushroom",
+  "animations": [
+    {
+      "name": "idle_east",
+      "action_id": "idle",
+      "direction": "east",
+      "version_id": "mushroom",
+      "loop": true,
+      "frame_count": 21,
+      "total_duration_ms": 4200,
+      "export": "animations/idle_east/export.json",
+      "atlas": "animations/idle_east/atlas.png",
+      "export_sha256": "3707644e844eeb6f9b8fe632656efc8c78346d4895af1bd41657a2d1da9823c1",
+      "atlas_sha256": "af305aa0c70def510840c63511e1430d4fd25e0a15ee11b9f18bd3217346f398"
+    },
+    {
+      "name": "idle_west",
+      "action_id": "idle",
+      "direction": "west",
+      "version_id": "mushroom",
+      "loop": true,
+      "frame_count": 21,
+      "total_duration_ms": 4200,
+      "export": "animations/idle_west/export.json",
+      "atlas": "animations/idle_west/atlas.png",
+      "export_sha256": "6de6d1d017e96cb2ee69c12303cb6935a2ab80bff2e0e4fdebf709bc13e9c814",
+      "atlas_sha256": "f71ba143858f9d7c5c7929af5eded5b23213c7edd91d95694c42cda3ae15c633"
+    },
+    {
+      "name": "walk_east",
+      "action_id": "walk",
+      "direction": "east",
+      "version_id": "mushroom",
+      "loop": true,
+      "frame_count": 12,
+      "total_duration_ms": 996,
+      "export": "animations/walk_east/export.json",
+      "atlas": "animations/walk_east/atlas.png",
+      "export_sha256": "f1633e1ab06c11de3386416808e16fd0507ec909a6891120e13de6abd1ea0d7b",
+      "atlas_sha256": "3a3a6247a335a6c91bd07831decd5a35ee1ab02316cf9e419bd6fd6e9557898c"
+    },
+    {
+      "name": "walk_west",
+      "action_id": "walk",
+      "direction": "west",
+      "version_id": "mushroom",
+      "loop": true,
+      "frame_count": 12,
+      "total_duration_ms": 996,
+      "export": "animations/walk_west/export.json",
+      "atlas": "animations/walk_west/atlas.png",
+      "export_sha256": "37766c99b91bd4ff60d9cc304a9923ea17005bac989a7f96de82b70f828163c1",
+      "atlas_sha256": "f40e0525f8ee9007839181febf9a9d08caec47048d859cb7592fe63fc2e2004b"
+    },
+    {
+      "name": "attack_east",
+      "action_id": "attack",
+      "direction": "east",
+      "version_id": "mushroom",
+      "loop": false,
+      "frame_count": 19,
+      "total_duration_ms": 1197,
+      "export": "animations/attack_east/export.json",
+      "atlas": "animations/attack_east/atlas.png",
+      "export_sha256": "8197298b3996092fbf40baaa52c8677eb1ee13134c0ee61e40cc9e5f16279e84",
+      "atlas_sha256": "3b90f44d9e855a037e369e920437117abb36ad3b01948e14f5003448edda587d"
+    },
+    {
+      "name": "attack_west",
+      "action_id": "attack",
+      "direction": "west",
+      "version_id": "mushroom",
+      "loop": false,
+      "frame_count": 19,
+      "total_duration_ms": 1197,
+      "export": "animations/attack_west/export.json",
+      "atlas": "animations/attack_west/atlas.png",
+      "export_sha256": "969fab57da37ec0741fe0389d0a4cea80a644ab93b8dad2ed41b9e9db04777f3",
+      "atlas_sha256": "482479be44d70b788e96d106361d6d2ec46c2590182d77fc745574aa17617fae"
+    },
+    {
+      "name": "hurt_east",
+      "action_id": "hurt",
+      "direction": "east",
+      "version_id": "mushroom",
+      "loop": false,
+      "frame_count": 11,
+      "total_duration_ms": 616,
+      "export": "animations/hurt_east/export.json",
+      "atlas": "animations/hurt_east/atlas.png",
+      "export_sha256": "49bf77330dbe9757b018786bb0290e0c143b4961ae9f41dda348db606bf9b00b",
+      "atlas_sha256": "316d1ced941286711e497030f1ed48f4076fb0f0224184474f776e25b409bc53"
+    },
+    {
+      "name": "hurt_west",
+      "action_id": "hurt",
+      "direction": "west",
+      "version_id": "mushroom",
+      "loop": false,
+      "frame_count": 11,
+      "total_duration_ms": 616,
+      "export": "animations/hurt_west/export.json",
+      "atlas": "animations/hurt_west/atlas.png",
+      "export_sha256": "cd8b8d19acd4856212a29189310722576ad1eaa6cb615af7a751e7b443f76b22",
+      "atlas_sha256": "f79267729d70437e137484de1a808753a75b809797b9d7d09861e8b8452c0503"
+    },
+    {
+      "name": "death_east",
+      "action_id": "death",
+      "direction": "east",
+      "version_id": "mushroom",
+      "loop": false,
+      "frame_count": 17,
+      "total_duration_ms": 1071,
+      "export": "animations/death_east/export.json",
+      "atlas": "animations/death_east/atlas.png",
+      "export_sha256": "3831e68f2283ef8eab47cf940a2e4bcb305fb98d499d5322f3ff1158e3e7c52e",
+      "atlas_sha256": "eb8c76e2ad1d694bf6d0899e942d5c274df22e708b8f8cc885bc8d5c1bc7ddb8"
+    },
+    {
+      "name": "death_west",
+      "action_id": "death",
+      "direction": "west",
+      "version_id": "mushroom",
+      "loop": false,
+      "frame_count": 17,
+      "total_duration_ms": 1071,
+      "export": "animations/death_west/export.json",
+      "atlas": "animations/death_west/atlas.png",
+      "export_sha256": "54b7014fc8dec88f522c2bd075afe0b7b8a1518f0365195b39d0d48dce9bac7e",
+      "atlas_sha256": "ef5887a6b8ddc8d061018be02f9cd457c92d8077a4ce48faffa1bd740f5bf2ab"
+    }
+  ],
+  "godot": {
+    "sprite_frames": "godot/character.tres",
+    "scene": "godot/character.tscn",
+    "pivot_anchor": {
+      "x": 119,
+      "y": 143
+    }
+  }
+}

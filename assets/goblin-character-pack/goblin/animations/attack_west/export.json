@@ -1,0 +1,700 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "goblin",
+    "project_id": "goblin",
+    "asset_id": "goblin",
+    "version_id": "goblin",
+    "character_id": "goblin",
+    "action_id": "attack",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2384,
+    "height": 1164,
+    "sha256": "5050655a16fd306c90530f0b14e634b01ab9afcd7907cc388b51c1298b576f7a",
+    "byte_length": 933596
+  },
+  "frames": [
+    {
+      "frame_id": "goblin-attack_west-0",
+      "file": "frames/goblin-attack_west-0.png",
+      "sha256": "bac148aa448ac901c49c06af9cba27eb31e747bf9eed75a2ee1803f4b9834ba5",
+      "byte_length": 38265,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-1",
+      "file": "frames/goblin-attack_west-1.png",
+      "sha256": "ae31b4746bbc92e2c076684806305ceac7a72bf8e7de0bce91437e1754991546",
+      "byte_length": 38319,
+      "duration_ms": 63,
+      "rect": {
+        "x": 298,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-2",
+      "file": "frames/goblin-attack_west-2.png",
+      "sha256": "7a26600a929a2a0c776e5e1c2dbf0f37771fc73f0a58bfefa5286e115aa40d1a",
+      "byte_length": 36327,
+      "duration_ms": 63,
+      "rect": {
+        "x": 596,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-3",
+      "file": "frames/goblin-attack_west-3.png",
+      "sha256": "b4dd217d2dd3838510768c420c7e619bc33c1197da2bb0a82838ea2bd2f063fa",
+      "byte_length": 39172,
+      "duration_ms": 63,
+      "rect": {
+        "x": 894,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-4",
+      "file": "frames/goblin-attack_west-4.png",
+      "sha256": "544ab39a912531b0ef4e81c1bfeec05f6d122177f9f1e0e3ec51ee0a9c3867e6",
+      "byte_length": 40340,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1192,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-5",
+      "file": "frames/goblin-attack_west-5.png",
+      "sha256": "61f5be9ba4c4cbc3fb9a7b8a51be49e4a21b0cfc20fbd7574a005b2c845fa419",
+      "byte_length": 39959,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1490,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-6",
+      "file": "frames/goblin-attack_west-6.png",
+      "sha256": "e01f0928ee6e9b422485ed7ff13ba9101f25f73954868ae96ebf69a1a2e6d5e1",
+      "byte_length": 39385,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1788,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-7",
+      "file": "frames/goblin-attack_west-7.png",
+      "sha256": "d68a97e05f6664627f58044f725d18a7cb99bbf53ca845728d707414df22b0f4",
+      "byte_length": 39253,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2086,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-8",
+      "file": "frames/goblin-attack_west-8.png",
+      "sha256": "8e8945d9e91ac7d74bb626d665f07bb671ad27e19137bec7e78dec6957964037",
+      "byte_length": 39138,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-9",
+      "file": "frames/goblin-attack_west-9.png",
+      "sha256": "3a9c4976e5f3d4fab5259e166064421796cfd58eedad54b926b4c3e9d9a1c5c2",
+      "byte_length": 39106,
+      "duration_ms": 63,
+      "rect": {
+        "x": 298,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-10",
+      "file": "frames/goblin-attack_west-10.png",
+      "sha256": "4ac5edfab7d738cc9dd1244a20b88a628f701575ad0238537c73777320c04c99",
+      "byte_length": 39471,
+      "duration_ms": 63,
+      "rect": {
+        "x": 596,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-11",
+      "file": "frames/goblin-attack_west-11.png",
+      "sha256": "05495a1fc163a9aa3dd01c1df33007f5391704c61ce0bcbd0437d3b2a2139711",
+      "byte_length": 39551,
+      "duration_ms": 63,
+      "rect": {
+        "x": 894,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-12",
+      "file": "frames/goblin-attack_west-12.png",
+      "sha256": "514ffe2846af3e1bf0bdedcf8ec464e03fb7999e114b5497db43108a155147c0",
+      "byte_length": 39798,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1192,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-13",
+      "file": "frames/goblin-attack_west-13.png",
+      "sha256": "dfb0427c6fecea8d7098bcc5b865bf8e4b2a732a1e9e2e3ac3b13ec8d1fcb0d6",
+      "byte_length": 39532,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1490,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-14",
+      "file": "frames/goblin-attack_west-14.png",
+      "sha256": "ea9d7deec34b99fbd4a4d90a0083a9f0cfeecabbe2379ad718b6ff2c6547e4c9",
+      "byte_length": 39039,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1788,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-15",
+      "file": "frames/goblin-attack_west-15.png",
+      "sha256": "32ecf560264408e514f10c0f0e93e7a6c0d20980bb25bc165923ee19a81c19ad",
+      "byte_length": 39524,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2086,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-16",
+      "file": "frames/goblin-attack_west-16.png",
+      "sha256": "31ae24a1c334cb6a7c466ec4e8af567849a20a68db189ce755a63d756b869f5f",
+      "byte_length": 39535,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-17",
+      "file": "frames/goblin-attack_west-17.png",
+      "sha256": "f307c259332b9648ccd54980099eb19c86f7bc393c0cfb3b53063c27db685cb9",
+      "byte_length": 40209,
+      "duration_ms": 63,
+      "rect": {
+        "x": 298,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-18",
+      "file": "frames/goblin-attack_west-18.png",
+      "sha256": "cf22ead24782d86eaacc013b2069a148091eb5705103b60625ea5b5a0378742e",
+      "byte_length": 39978,
+      "duration_ms": 63,
+      "rect": {
+        "x": 596,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-19",
+      "file": "frames/goblin-attack_west-19.png",
+      "sha256": "c472ea71e63ccc949d03536828b71eaee0410c7be814a6663d55a43803933a4f",
+      "byte_length": 40184,
+      "duration_ms": 63,
+      "rect": {
+        "x": 894,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-20",
+      "file": "frames/goblin-attack_west-20.png",
+      "sha256": "791de1ce00436cf0492337010600197b1614f92f995218dba13748075d56c76c",
+      "byte_length": 39667,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1192,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-21",
+      "file": "frames/goblin-attack_west-21.png",
+      "sha256": "24ad44444a92c5b706c44b3505a25d7098c885dc0c6e1c794034f27edd5514dc",
+      "byte_length": 38841,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1490,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-22",
+      "file": "frames/goblin-attack_west-22.png",
+      "sha256": "63b86996ffd9f31e8c2086fc6de2d253794604d399f653301d2c1b5d3e5db202",
+      "byte_length": 38270,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1788,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-23",
+      "file": "frames/goblin-attack_west-23.png",
+      "sha256": "871ce9ecfd7822baf86c0d82477ba14ae61acb6325e528fbe141214cb672b935",
+      "byte_length": 38124,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2086,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-24",
+      "file": "frames/goblin-attack_west-24.png",
+      "sha256": "eede83f11fec6f271a84efd82cfc2defe75f02812b8f121c82935ff6d27c4bda",
+      "byte_length": 38143,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 873,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-attack_west-25",
+      "file": "frames/goblin-attack_west-25.png",
+      "sha256": "f2d222fccfcde2f7d1e4c896a9bbb2141b593660b482567be91136f5fe3841f0",
+      "byte_length": 38485,
+      "duration_ms": 63,
+      "rect": {
+        "x": 298,
+        "y": 873,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1638,
+  "loop": false
+}

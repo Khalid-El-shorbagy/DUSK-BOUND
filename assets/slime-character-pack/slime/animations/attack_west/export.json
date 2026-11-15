@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "slime",
+    "project_id": "slime",
+    "asset_id": "slime",
+    "version_id": "slime",
+    "character_id": "slime",
+    "action_id": "attack",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1424,
+    "height": 492,
+    "sha256": "d82d163bb902c504e9c03e35b0153fd4576aaaaee4c5e6563fe0679ee1e1e722",
+    "byte_length": 338971
+  },
+  "frames": [
+    {
+      "frame_id": "slime-attack_west-0",
+      "file": "frames/slime-attack_west-0.png",
+      "sha256": "4cb0870917118bf11deefe1d72452c21c031e2ed7a09a16e576aa98008f442b4",
+      "byte_length": 15935,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-1",
+      "file": "frames/slime-attack_west-1.png",
+      "sha256": "a2d355e9714121dcdaeaa45d189be38ca5351dfd4c4b140d0e7d002d8e41c971",
+      "byte_length": 16054,
+      "duration_ms": 63,
+      "rect": {
+        "x": 178,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-2",
+      "file": "frames/slime-attack_west-2.png",
+      "sha256": "158f4fdba971d6f2ababecd32b80614719558a0e8ab377e8407bacd02b9d0e90",
+      "byte_length": 16058,
+      "duration_ms": 63,
+      "rect": {
+        "x": 356,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-3",
+      "file": "frames/slime-attack_west-3.png",
+      "sha256": "6237907906ea84bc835c99b27705a9c0808cbdaafc92e26ae13655cc246cca1b",
+      "byte_length": 16179,
+      "duration_ms": 63,
+      "rect": {
+        "x": 534,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-4",
+      "file": "frames/slime-attack_west-4.png",
+      "sha256": "719560ee9f89dcc88f4526342921b114fc253d7547a15abb394e20f7d4834948",
+      "byte_length": 16239,
+      "duration_ms": 63,
+      "rect": {
+        "x": 712,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-5",
+      "file": "frames/slime-attack_west-5.png",
+      "sha256": "ac6f8ac553b548f9690d212470e06210269bc94b68bf4cd68d07615aefd82047",
+      "byte_length": 17128,
+      "duration_ms": 63,
+      "rect": {
+        "x": 890,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-6",
+      "file": "frames/slime-attack_west-6.png",
+      "sha256": "12a0c7b8cc7063936d3958177a97451429651f26b89bb5dfd06cc0b1ad8ad47c",
+      "byte_length": 17246,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1068,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-7",
+      "file": "frames/slime-attack_west-7.png",
+      "sha256": "bcee228a447016c69dcce77830b793f531e632fb0a109ebe3d0d0d800195d0b6",
+      "byte_length": 17538,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1246,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-8",
+      "file": "frames/slime-attack_west-8.png",
+      "sha256": "5443a6956658da188571adb0ad81680b596dd1f73d4d5850378692b0c3d393d1",
+      "byte_length": 18008,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-9",
+      "file": "frames/slime-attack_west-9.png",
+      "sha256": "2fbdca82e7d319e220393a45ca67a2c8d37b123a86791e1bc43a33033a9f5caa",
+      "byte_length": 16542,
+      "duration_ms": 63,
+      "rect": {
+        "x": 178,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-10",
+      "file": "frames/slime-attack_west-10.png",
+      "sha256": "ed654f7f412c60696416052a69b01f7ee0ad7cd2774e6717d242c636aedf581a",
+      "byte_length": 15509,
+      "duration_ms": 63,
+      "rect": {
+        "x": 356,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-11",
+      "file": "frames/slime-attack_west-11.png",
+      "sha256": "df7977f7c25e5202237f96a4cfa9962ed702e825846b89f96e1b8d0810c5792f",
+      "byte_length": 15866,
+      "duration_ms": 63,
+      "rect": {
+        "x": 534,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-12",
+      "file": "frames/slime-attack_west-12.png",
+      "sha256": "f0e49c97d7df7d025deecc008a80cf01feac27c846fafad673011dc308c8f2ca",
+      "byte_length": 16149,
+      "duration_ms": 63,
+      "rect": {
+        "x": 712,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-13",
+      "file": "frames/slime-attack_west-13.png",
+      "sha256": "a28485099b8ba50b140ca75af0aba233a39398f15fe393a304a504b49a4cbe55",
+      "byte_length": 16399,
+      "duration_ms": 63,
+      "rect": {
+        "x": 890,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-14",
+      "file": "frames/slime-attack_west-14.png",
+      "sha256": "bc70e568ec8b502e88a426b88b28185d21bb9c1971b3e49829f341304d4848f6",
+      "byte_length": 17499,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1068,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-15",
+      "file": "frames/slime-attack_west-15.png",
+      "sha256": "f12728cd9e126df024b9913325f3ea0a5ed2b006bafadf355c06508b88eee6ce",
+      "byte_length": 16794,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1246,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-16",
+      "file": "frames/slime-attack_west-16.png",
+      "sha256": "f26f46d6c9b8a5b331d3d2c9b1477185702f1e67b3526a245c5833e6f82d43e5",
+      "byte_length": 17118,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-17",
+      "file": "frames/slime-attack_west-17.png",
+      "sha256": "3a7c957e2ede7493883f5d4515ff654640c380e86df655066cce93e916a1b0ef",
+      "byte_length": 16626,
+      "duration_ms": 63,
+      "rect": {
+        "x": 178,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-18",
+      "file": "frames/slime-attack_west-18.png",
+      "sha256": "e3e5b9dddfa6896d1f5365cfab93fba9d5d96c8ae20eb74f68d41d4fea2d4d2c",
+      "byte_length": 16251,
+      "duration_ms": 63,
+      "rect": {
+        "x": 356,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-19",
+      "file": "frames/slime-attack_west-19.png",
+      "sha256": "41c39aace73661f3d481f4a8c985d5f60629fdffaec06a2b63c18ed90ed2ff80",
+      "byte_length": 16234,
+      "duration_ms": 63,
+      "rect": {
+        "x": 534,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-attack_west-20",
+      "file": "frames/slime-attack_west-20.png",
+      "sha256": "3d7c0f68375d260203a15b529e74695ce944292efa659d01edd897e38953b027",
+      "byte_length": 16378,
+      "duration_ms": 63,
+      "rect": {
+        "x": 712,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1323,
+  "loop": false
+}

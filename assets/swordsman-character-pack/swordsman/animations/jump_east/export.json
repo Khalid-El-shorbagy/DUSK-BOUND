@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "swordsman",
+    "project_id": "swordsman",
+    "asset_id": "swordsman",
+    "version_id": "swordsman",
+    "character_id": "swordsman",
+    "action_id": "jump",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 3072,
+    "height": 768,
+    "sha256": "b8d80f56797d6c4be4ba715ecb26df2d495973ab22933f606a62442f6524e623",
+    "byte_length": 1051773
+  },
+  "frames": [
+    {
+      "frame_id": "swordsman-jump_east-0",
+      "file": "frames/swordsman-jump_east-0.png",
+      "sha256": "3289c28b6e3d824a6772a0a1ff41d254a1d756171e02644b255ba11d94b33792",
+      "byte_length": 48537,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-1",
+      "file": "frames/swordsman-jump_east-1.png",
+      "sha256": "007f8f724a68ee0db8254f2392a4ca20dfa5a583ec62df82f4dc1adf1434993b",
+      "byte_length": 48326,
+      "duration_ms": 71,
+      "rect": {
+        "x": 384,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-2",
+      "file": "frames/swordsman-jump_east-2.png",
+      "sha256": "30ada2c5baaf60f041bcca775e4c475aa6dc935587bc896bcd0de1e2fe96432d",
+      "byte_length": 48435,
+      "duration_ms": 71,
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-3",
+      "file": "frames/swordsman-jump_east-3.png",
+      "sha256": "db85414b71a19d5d8ce8e06e00cb4902047a151fe90540a9aebe36b12fa62ed5",
+      "byte_length": 49038,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-4",
+      "file": "frames/swordsman-jump_east-4.png",
+      "sha256": "0943f53c43cbce1ef80f74a54c86251c15c3f12d1eb68055426792b893594ba5",
+      "byte_length": 53817,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-5",
+      "file": "frames/swordsman-jump_east-5.png",
+      "sha256": "a2b974962f293031f67f01ee7a4d465e934f951c5405652397fe0cd8fc5f4212",
+      "byte_length": 48439,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1920,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-6",
+      "file": "frames/swordsman-jump_east-6.png",
+      "sha256": "afe04a9394a59e341e20b878f405651669a4d10d26d22aa134875c3f9fadc1d3",
+      "byte_length": 51982,
+      "duration_ms": 71,
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-7",
+      "file": "frames/swordsman-jump_east-7.png",
+      "sha256": "cc93dd170da5d7187087d464aa94f647a39f80b57c30946e4dc777d41011e170",
+      "byte_length": 50181,
+      "duration_ms": 71,
+      "rect": {
+        "x": 2688,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-8",
+      "file": "frames/swordsman-jump_east-8.png",
+      "sha256": "4cfdbd0bc90355d50be77bef975150ae312ce080d5f9fd5638cdb77f166b7b19",
+      "byte_length": 50427,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-9",
+      "file": "frames/swordsman-jump_east-9.png",
+      "sha256": "499a410b8ac5570d9f57bbabb53e6b5397c5ce5e7993c07dfdbf3f2e1ff6d093",
+      "byte_length": 49685,
+      "duration_ms": 71,
+      "rect": {
+        "x": 384,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-10",
+      "file": "frames/swordsman-jump_east-10.png",
+      "sha256": "6378ccfd79fdcada5af8bb5fd9b04fe5476e843cd3b69c2010adbba5b63145df",
+      "byte_length": 49152,
+      "duration_ms": 71,
+      "rect": {
+        "x": 768,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-11",
+      "file": "frames/swordsman-jump_east-11.png",
+      "sha256": "cf9d74aef27fa0a4da2547a347710f0757a95a8b7c537f26c59a9f71ea7de04c",
+      "byte_length": 49454,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1152,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-12",
+      "file": "frames/swordsman-jump_east-12.png",
+      "sha256": "304b1093ea446bf140f3c85c165a51ed54a67648c58f2bdbd7d614521111782a",
+      "byte_length": 50788,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1536,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-13",
+      "file": "frames/swordsman-jump_east-13.png",
+      "sha256": "1bba8b069da6c548d7f054d31f6fe6967ef1b49d5a0e3203ce7ad0867087e1ec",
+      "byte_length": 51049,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1920,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-14",
+      "file": "frames/swordsman-jump_east-14.png",
+      "sha256": "aaee53a7062615279650dfc2de1d7b7a1fd7777120ca6393ad21a315633a07e2",
+      "byte_length": 54341,
+      "duration_ms": 71,
+      "rect": {
+        "x": 2304,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-15",
+      "file": "frames/swordsman-jump_east-15.png",
+      "sha256": "009125f350e03d7c640459f300ea1f95ef9ee257cc75d62fe948d8012607020f",
+      "byte_length": 55079,
+      "duration_ms": 71,
+      "rect": {
+        "x": 2688,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-16",
+      "file": "frames/swordsman-jump_east-16.png",
+      "sha256": "77d97445646c1586b12aec5f306508cd39027e8abf9fd0dda283fb209c7c9fdd",
+      "byte_length": 50319,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-17",
+      "file": "frames/swordsman-jump_east-17.png",
+      "sha256": "81cfcb543ad01063b13148e103d5c9eaa21cb050df34f51aff42e24b47a87805",
+      "byte_length": 48306,
+      "duration_ms": 71,
+      "rect": {
+        "x": 384,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-18",
+      "file": "frames/swordsman-jump_east-18.png",
+      "sha256": "089bfcf9168ff780b4ae4fe02e57927a0c64da471440dcc8ecf6a5a7ca6735e3",
+      "byte_length": 47842,
+      "duration_ms": 71,
+      "rect": {
+        "x": 768,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-19",
+      "file": "frames/swordsman-jump_east-19.png",
+      "sha256": "20786b31f649a11b4c2264d4a303359cfddfce266208b65eac8dd631b988ca9d",
+      "byte_length": 51284,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1152,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-jump_east-20",
+      "file": "frames/swordsman-jump_east-20.png",
+      "sha256": "663c24fcf63dd50ac143594876c8e5eafb831683fa759146490df1effff9b040",
+      "byte_length": 53856,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1536,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1491,
+  "loop": false
+}

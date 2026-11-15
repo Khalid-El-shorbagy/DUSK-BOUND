@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "goblin",
+    "project_id": "goblin",
+    "asset_id": "goblin",
+    "version_id": "goblin",
+    "character_id": "goblin",
+    "action_id": "idle",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 2384,
+    "height": 873,
+    "sha256": "b797ad92e5b45aca8eb57399bed3fde296e2dd811057db511f6281ade0610d38",
+    "byte_length": 734279
+  },
+  "frames": [
+    {
+      "frame_id": "goblin-idle_west-0",
+      "file": "frames/goblin-idle_west-0.png",
+      "sha256": "263087b2c31432961918d619e7c98057bf75546a6d0e674feff65b2ec3b3dfb2",
+      "byte_length": 38291,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-1",
+      "file": "frames/goblin-idle_west-1.png",
+      "sha256": "ed9d9a9188b680b9ac9103888ea34be36b6b3b90edf0dc25fe33c6aa02028596",
+      "byte_length": 38305,
+      "duration_ms": 200,
+      "rect": {
+        "x": 298,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-2",
+      "file": "frames/goblin-idle_west-2.png",
+      "sha256": "33ddf8069fcd52ab962d9a33e7eece3f42bce379acbe9b94ba1dbd383e933223",
+      "byte_length": 38443,
+      "duration_ms": 200,
+      "rect": {
+        "x": 596,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-3",
+      "file": "frames/goblin-idle_west-3.png",
+      "sha256": "6bbfc795d60cb2f1a965c8bc1ca144a66c7b9d74c39e38c8f01ae829bcefbb6a",
+      "byte_length": 38519,
+      "duration_ms": 200,
+      "rect": {
+        "x": 894,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-4",
+      "file": "frames/goblin-idle_west-4.png",
+      "sha256": "acdbe6f2e7675eff652be3c510a4439422c29febbfeb622c8fdf6e7a899cbd1a",
+      "byte_length": 38859,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1192,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-5",
+      "file": "frames/goblin-idle_west-5.png",
+      "sha256": "4869e76904a5030e315f422f1053d3c2e8f511e66a662e1cad41af8482165ab4",
+      "byte_length": 39104,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1490,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-6",
+      "file": "frames/goblin-idle_west-6.png",
+      "sha256": "388b295e85d274f3ac22c3d48a8a88c3d0f48cfb9c51c5cbc8c3f26258425193",
+      "byte_length": 39031,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1788,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-7",
+      "file": "frames/goblin-idle_west-7.png",
+      "sha256": "1df388b028eedcfff753fc7ad4e168d75b2b2db8b90a8bc7e22b1b5304dabc29",
+      "byte_length": 39059,
+      "duration_ms": 200,
+      "rect": {
+        "x": 2086,
+        "y": 0,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-8",
+      "file": "frames/goblin-idle_west-8.png",
+      "sha256": "92e9cfcd07aef7fe2e0108eb5465de82b68ec3d6b2a6bfdc8c94f1aed963d197",
+      "byte_length": 39375,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-9",
+      "file": "frames/goblin-idle_west-9.png",
+      "sha256": "b9a54ef667a0dfb9775c90bee7697768b8e0f4f45e01ab776192576a3c20d4fe",
+      "byte_length": 39325,
+      "duration_ms": 200,
+      "rect": {
+        "x": 298,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-10",
+      "file": "frames/goblin-idle_west-10.png",
+      "sha256": "01719c9546143f84612f1dcce9b230bf53486727992cfe60d9e69d7883fc0fe9",
+      "byte_length": 39119,
+      "duration_ms": 200,
+      "rect": {
+        "x": 596,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-11",
+      "file": "frames/goblin-idle_west-11.png",
+      "sha256": "aaca89d11387a10b25acd024ab7ae12830bfef0245e0d2f24f067a1f86760946",
+      "byte_length": 38568,
+      "duration_ms": 200,
+      "rect": {
+        "x": 894,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-12",
+      "file": "frames/goblin-idle_west-12.png",
+      "sha256": "434b64b40c3fc066af207a9e630afb301065a24e7e3e2daffc50afe9ffc75f4d",
+      "byte_length": 38650,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1192,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-13",
+      "file": "frames/goblin-idle_west-13.png",
+      "sha256": "0b7aa0ac2cb7a33cc60f6d47a7d972dc088606274d4765ebaa4eed40ac5d1668",
+      "byte_length": 38475,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1490,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-14",
+      "file": "frames/goblin-idle_west-14.png",
+      "sha256": "3af5aebc0f4afc7a6b3ad40557c0de4bc15e14d5fd772d3746d7315e81f6d8cb",
+      "byte_length": 38393,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1788,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-15",
+      "file": "frames/goblin-idle_west-15.png",
+      "sha256": "745cbf258b5424777287ab58072e0b2924ba7c7a07544404f767bfee7f6965cc",
+      "byte_length": 38557,
+      "duration_ms": 200,
+      "rect": {
+        "x": 2086,
+        "y": 291,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-16",
+      "file": "frames/goblin-idle_west-16.png",
+      "sha256": "ccb90415e9057bc1e1948f0313fcbc5686d0b0913e3dc2bc60b5d40fa2fe6d1a",
+      "byte_length": 38717,
+      "duration_ms": 200,
+      "rect": {
+        "x": 0,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-17",
+      "file": "frames/goblin-idle_west-17.png",
+      "sha256": "343d90d1cf232a7112a45e5fdf158c958be3bf75e4fde95a1134bcddf8972889",
+      "byte_length": 38717,
+      "duration_ms": 200,
+      "rect": {
+        "x": 298,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-18",
+      "file": "frames/goblin-idle_west-18.png",
+      "sha256": "11da0e1688824251c7acfef48255d18cd7f5c71685a07739bb2875381102fd16",
+      "byte_length": 38817,
+      "duration_ms": 200,
+      "rect": {
+        "x": 596,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-19",
+      "file": "frames/goblin-idle_west-19.png",
+      "sha256": "aaf0855d5389d7d23fba8d479e4e58ba619a047410e50b4ffcb01263ceca2f68",
+      "byte_length": 38790,
+      "duration_ms": 200,
+      "rect": {
+        "x": 894,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "goblin-idle_west-20",
+      "file": "frames/goblin-idle_west-20.png",
+      "sha256": "85bde1ed73ee3099c78e4bf348b0904d76258e5349292dc4696da292bcbd66cc",
+      "byte_length": 38768,
+      "duration_ms": 200,
+      "rect": {
+        "x": 1192,
+        "y": 582,
+        "width": 298,
+        "height": 291
+      },
+      "source_size": {
+        "width": 298,
+        "height": 291
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4966442953020134,
+        "y": 0.8797250859106529
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 4200,
+  "loop": true
+}

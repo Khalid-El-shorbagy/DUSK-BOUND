@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-character-pack-v1",
+  "delivery_id": "goblin",
+  "workspace_id": "goblin",
+  "project_id": "goblin",
+  "asset_id": "goblin",
+  "character_id": "goblin",
+  "animations": [
+    {
+      "name": "idle_east",
+      "action_id": "idle",
+      "direction": "east",
+      "version_id": "goblin",
+      "loop": true,
+      "frame_count": 21,
+      "total_duration_ms": 4200,
+      "export": "animations/idle_east/export.json",
+      "atlas": "animations/idle_east/atlas.png",
+      "export_sha256": "d27966ab7a457a8c867d2c33cb1c930351b7ad52ef5483227f436e04e12eb41a",
+      "atlas_sha256": "839527486e1bb4825f5e0de3ed82635178b7c2807e9489aba8df467eedbba54e"
+    },
+    {
+      "name": "idle_west",
+      "action_id": "idle",
+      "direction": "west",
+      "version_id": "goblin",
+      "loop": true,
+      "frame_count": 21,
+      "total_duration_ms": 4200,
+      "export": "animations/idle_west/export.json",
+      "atlas": "animations/idle_west/atlas.png",
+      "export_sha256": "937f538f2849e0d1f83d057a9c943913453ec800ec5cdf726ddbf0da734b489a",
+      "atlas_sha256": "b797ad92e5b45aca8eb57399bed3fde296e2dd811057db511f6281ade0610d38"
+    },
+    {
+      "name": "walk_east",
+      "action_id": "walk",
+      "direction": "east",
+      "version_id": "goblin",
+      "loop": true,
+      "frame_count": 20,
+      "total_duration_ms": 1660,
+      "export": "animations/walk_east/export.json",
+      "atlas": "animations/walk_east/atlas.png",
+      "export_sha256": "8af69386bdedbbcc70ce694743acfc1295e6b199b7ebb78474ce217223bdf0be",
+      "atlas_sha256": "d8bc7042c8f8f61c143e3982b0c04c9df2b024c78ed0352d8d02bb3588d66fc1"
+    },
+    {
+      "name": "walk_west",
+      "action_id": "walk",
+      "direction": "west",
+      "version_id": "goblin",
+      "loop": true,
+      "frame_count": 20,
+      "total_duration_ms": 1660,
+      "export": "animations/walk_west/export.json",
+      "atlas": "animations/walk_west/atlas.png",
+      "export_sha256": "660485aad74af3f79d9d2bc2356d5e5f14936818a3acb58d2ab35f75bcbfd07d",
+      "atlas_sha256": "e42831476fbd0c581fc3ec918ec0c68be0f7e05da2bb0cb4c7d1281d5dd6d5c0"
+    },
+    {
+      "name": "attack_east",
+      "action_id": "attack",
+      "direction": "east",
+      "version_id": "goblin",
+      "loop": false,
+      "frame_count": 26,
+      "total_duration_ms": 1638,
+      "export": "animations/attack_east/export.json",
+      "atlas": "animations/attack_east/atlas.png",
+      "export_sha256": "b592ec0b92c0bd0f925c1e105ab28e9dc54debb07f3a1e3679f6283a1f06a480",
+      "atlas_sha256": "cbc668f22d8a047b74ec8a93929a33d8a9b7c074b7c67ec7a4c0ad43b2356a1c"
+    },
+    {
+      "name": "attack_west",
+      "action_id": "attack",
+      "direction": "west",
+      "version_id": "goblin",
+      "loop": false,
+      "frame_count": 26,
+      "total_duration_ms": 1638,
+      "export": "animations/attack_west/export.json",
+      "atlas": "animations/attack_west/atlas.png",
+      "export_sha256": "f41d626b6aa09fd63c2c4ab6b93740b888517735e6e509fc07ffc59f5a459613",
+      "atlas_sha256": "5050655a16fd306c90530f0b14e634b01ab9afcd7907cc388b51c1298b576f7a"
+    },
+    {
+      "name": "hurt_east",
+      "action_id": "hurt",
+      "direction": "east",
+      "version_id": "goblin",
+      "loop": false,
+      "frame_count": 10,
+      "total_duration_ms": 560,
+      "export": "animations/hurt_east/export.json",
+      "atlas": "animations/hurt_east/atlas.png",
+      "export_sha256": "66604c16d5b30b0899c7184f48a3d74e36eb737f04afc73ebb13afaa93a8896b",
+      "atlas_sha256": "d7d25a751f982aa2dd7c4209ca26f103980179990e3f3e966443f6f6a64c3249"
+    },
+    {
+      "name": "hurt_west",
+      "action_id": "hurt",
+      "direction": "west",
+      "version_id": "goblin",
+      "loop": false,
+      "frame_count": 10,
+      "total_duration_ms": 560,
+      "export": "animations/hurt_west/export.json",
+      "atlas": "animations/hurt_west/atlas.png",
+      "export_sha256": "bc4fa88b2ff5587e0a4e6c57405f50d0f24454886cb4c21f68a760aa6d416f0a",
+      "atlas_sha256": "853f382e9cc437ea1be500003b1136078407f97bf94650d53c841f8de5823343"
+    },
+    {
+      "name": "death_east",
+      "action_id": "death",
+      "direction": "east",
+      "version_id": "goblin",
+      "loop": false,
+      "frame_count": 19,
+      "total_duration_ms": 1349,
+      "export": "animations/death_east/export.json",
+      "atlas": "animations/death_east/atlas.png",
+      "export_sha256": "f69e42a57908927675cdd5844cbea4381a800814aa03ff301e1726584ac45e1b",
+      "atlas_sha256": "df2085c7551530fa61ad344ccf63e91de878b9be5578f90b40b43e60568dd29c"
+    },
+    {
+      "name": "death_west",
+      "action_id": "death",
+      "direction": "west",
+      "version_id": "goblin",
+      "loop": false,
+      "frame_count": 19,
+      "total_duration_ms": 1349,
+      "export": "animations/death_west/export.json",
+      "atlas": "animations/death_west/atlas.png",
+      "export_sha256": "9094c55dec56b37888b34e25b1df8d9e4a2faaed9b59da736acc56233c740ba9",
+      "atlas_sha256": "bc4e34380188e4f374f1bde212df4e51b82f4f513252b83d9931085b16c3b53d"
+    }
+  ],
+  "godot": {
+    "sprite_frames": "godot/character.tres",
+    "scene": "godot/character.tscn",
+    "pivot_anchor": {
+      "x": 151,
+      "y": 256
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "slime",
+    "project_id": "slime",
+    "asset_id": "slime",
+    "version_id": "slime",
+    "character_id": "slime",
+    "action_id": "hurt",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1424,
+    "height": 164,
+    "sha256": "e9f8e31e59a8a7823c45a65e0fac802684276d558bea857f04588c4607335b98",
+    "byte_length": 112642
+  },
+  "frames": [
+    {
+      "frame_id": "slime-hurt_east-0",
+      "file": "frames/slime-hurt_east-0.png",
+      "sha256": "ede0a286cc5a66fe250424197a6196515ff2abdfaa0c77d74b088d369a231243",
+      "byte_length": 14914,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-1",
+      "file": "frames/slime-hurt_east-1.png",
+      "sha256": "228b80f93c05876c64a35502507bb9d24f6edbf90e77abc11d0923a67abadce6",
+      "byte_length": 14717,
+      "duration_ms": 63,
+      "rect": {
+        "x": 178,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-2",
+      "file": "frames/slime-hurt_east-2.png",
+      "sha256": "71f9e328af38353e96ec6ca9f30801fab3e37573812d709256b54e710de9cf24",
+      "byte_length": 15462,
+      "duration_ms": 63,
+      "rect": {
+        "x": 356,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-3",
+      "file": "frames/slime-hurt_east-3.png",
+      "sha256": "cfe43d14147c635b030a9d0d6b2ebc9c3ad5975b962eff970697f3f601208942",
+      "byte_length": 14960,
+      "duration_ms": 63,
+      "rect": {
+        "x": 534,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-4",
+      "file": "frames/slime-hurt_east-4.png",
+      "sha256": "1dcfc8e54ae981c931f7858e3f67c7b773de10d51231fe848c80f98f3b19240a",
+      "byte_length": 15000,
+      "duration_ms": 63,
+      "rect": {
+        "x": 712,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-5",
+      "file": "frames/slime-hurt_east-5.png",
+      "sha256": "05ab1ed162029246df98f24283cbb0b333279b181466418cd0f3cddfe58530bb",
+      "byte_length": 14981,
+      "duration_ms": 63,
+      "rect": {
+        "x": 890,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-6",
+      "file": "frames/slime-hurt_east-6.png",
+      "sha256": "db0f6ac06efe56b1d44cf7904659201fd01a4114245f8ceb846dcb717e13743c",
+      "byte_length": 15081,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1068,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-hurt_east-7",
+      "file": "frames/slime-hurt_east-7.png",
+      "sha256": "cf4429d2a1cb53a1620723466537ad46a7a33d3458ea582e6a7f442f6c603642",
+      "byte_length": 15000,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1246,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4157303370786517,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 504,
+  "loop": false
+}

@@ -1,0 +1,934 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "slime",
+    "project_id": "slime",
+    "asset_id": "slime",
+    "version_id": "slime",
+    "character_id": "slime",
+    "action_id": "idle",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1424,
+    "height": 820,
+    "sha256": "31d61b34dd40d6dd156d300732a69a828609ce97d1fa743fc7b0a3065e87d2a6",
+    "byte_length": 471210
+  },
+  "frames": [
+    {
+      "frame_id": "slime-idle_west-0",
+      "file": "frames/slime-idle_west-0.png",
+      "sha256": "22c6745e7c076406dc2e3e55314b4554e0b0977c3b15a03df843ee7c6dad37a9",
+      "byte_length": 14132,
+      "duration_ms": 125,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-1",
+      "file": "frames/slime-idle_west-1.png",
+      "sha256": "22c9fc1dd7a432b4385a8cc71e44c2f765ee6c892df1a2f67bc0bf30d312b3b3",
+      "byte_length": 14456,
+      "duration_ms": 125,
+      "rect": {
+        "x": 178,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-2",
+      "file": "frames/slime-idle_west-2.png",
+      "sha256": "2a34acd9abc9777b090538422013ca04c7d006b5d6b156c58b038e29d6d98ae9",
+      "byte_length": 14885,
+      "duration_ms": 125,
+      "rect": {
+        "x": 356,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-3",
+      "file": "frames/slime-idle_west-3.png",
+      "sha256": "a7d335492f1491fa4dc21244abacffed6ab089b57f54f028c025c133d54f7740",
+      "byte_length": 15115,
+      "duration_ms": 125,
+      "rect": {
+        "x": 534,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-4",
+      "file": "frames/slime-idle_west-4.png",
+      "sha256": "a3ddd8fa47c806d97f77873ded5fb237e6bd502ceddda1ec89ac47112c6888f3",
+      "byte_length": 14890,
+      "duration_ms": 125,
+      "rect": {
+        "x": 712,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-5",
+      "file": "frames/slime-idle_west-5.png",
+      "sha256": "8fd774d646a9c33749772496ea63e13a54ff40d312be7d2bfa8b3538760e7e6b",
+      "byte_length": 15083,
+      "duration_ms": 125,
+      "rect": {
+        "x": 890,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-6",
+      "file": "frames/slime-idle_west-6.png",
+      "sha256": "6995a2f58116b480a41a67d8fa172a86b7e576c383bc79d827f532652d08f5d1",
+      "byte_length": 15253,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1068,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-7",
+      "file": "frames/slime-idle_west-7.png",
+      "sha256": "f8873ea8075e8db61a4a17a6dd1c9a500196f59e42333963c977184aa6b86eee",
+      "byte_length": 15262,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1246,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-8",
+      "file": "frames/slime-idle_west-8.png",
+      "sha256": "20652c3300b5a95a108d772bb91a2a1e6a606e4a8717ef26f33c0a72f154cb57",
+      "byte_length": 15223,
+      "duration_ms": 125,
+      "rect": {
+        "x": 0,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-9",
+      "file": "frames/slime-idle_west-9.png",
+      "sha256": "328b27e613dd45482466b84929bd38f53ce73e1fd898622002e0850e80872ca2",
+      "byte_length": 15468,
+      "duration_ms": 125,
+      "rect": {
+        "x": 178,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-10",
+      "file": "frames/slime-idle_west-10.png",
+      "sha256": "33ca835d633cb857bda3dfb6af02333d3da9e849cfa66c2c62c021a7420ace95",
+      "byte_length": 15561,
+      "duration_ms": 125,
+      "rect": {
+        "x": 356,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-11",
+      "file": "frames/slime-idle_west-11.png",
+      "sha256": "814d36af499ace9daffdb0bd6c7e4bc8ee7c5751655edf138adf914eac3eac58",
+      "byte_length": 15171,
+      "duration_ms": 125,
+      "rect": {
+        "x": 534,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-12",
+      "file": "frames/slime-idle_west-12.png",
+      "sha256": "0fa006e9e1e49a8d4ec2b5ffd01274393c973c13c95f651197357782946932c9",
+      "byte_length": 15255,
+      "duration_ms": 125,
+      "rect": {
+        "x": 712,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-13",
+      "file": "frames/slime-idle_west-13.png",
+      "sha256": "6a17d263b63e4fc3ad4175b6893e87d4ed8ff2791fccefce6d13ced2ce9e4569",
+      "byte_length": 15461,
+      "duration_ms": 125,
+      "rect": {
+        "x": 890,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-14",
+      "file": "frames/slime-idle_west-14.png",
+      "sha256": "2f057c68b73551d199352a944844ffe9a4bc5591e179db468568395e85345f01",
+      "byte_length": 15399,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1068,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-15",
+      "file": "frames/slime-idle_west-15.png",
+      "sha256": "0570db93b7d018cf84c2844eb5019d33cc23a786a276cafcf3cb3db0ec30cbc4",
+      "byte_length": 15683,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1246,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-16",
+      "file": "frames/slime-idle_west-16.png",
+      "sha256": "f8e083a62db411a2448a09336c83a178f8940e9030526c464f076b39fa15b2dd",
+      "byte_length": 15784,
+      "duration_ms": 125,
+      "rect": {
+        "x": 0,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-17",
+      "file": "frames/slime-idle_west-17.png",
+      "sha256": "dcfd33b20d9ff13fb69dd7f3576fc757a3556606278dba684cc88b3ef4febaba",
+      "byte_length": 15353,
+      "duration_ms": 125,
+      "rect": {
+        "x": 178,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-18",
+      "file": "frames/slime-idle_west-18.png",
+      "sha256": "0e3c50a32f81b644401b3883fb4c91e10e40fb96e13559759b6ba109053d21e8",
+      "byte_length": 15109,
+      "duration_ms": 125,
+      "rect": {
+        "x": 356,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-19",
+      "file": "frames/slime-idle_west-19.png",
+      "sha256": "608dbba61d37274e8dd5a33bc87b743e72a309671fd8640d29879bcc8a62a1b9",
+      "byte_length": 15175,
+      "duration_ms": 125,
+      "rect": {
+        "x": 534,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-20",
+      "file": "frames/slime-idle_west-20.png",
+      "sha256": "4fe68c852a618564f77315b5f362c171d557eb49407e3d45da65a525f25af01d",
+      "byte_length": 15195,
+      "duration_ms": 125,
+      "rect": {
+        "x": 712,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-21",
+      "file": "frames/slime-idle_west-21.png",
+      "sha256": "4aa299ffbabf4ea99ceb8afcbeca5445b2fc1803d50fd5fa48d397e576be91d2",
+      "byte_length": 15164,
+      "duration_ms": 125,
+      "rect": {
+        "x": 890,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-22",
+      "file": "frames/slime-idle_west-22.png",
+      "sha256": "b406c0b7cc0add1618ae41d1527714cff4b484db5aaad39a2b09fec3652acad2",
+      "byte_length": 15253,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1068,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-23",
+      "file": "frames/slime-idle_west-23.png",
+      "sha256": "384b9937e5aba13d6363f641630f7051dd607260a037af681aeb03a594f18b68",
+      "byte_length": 15395,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1246,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-24",
+      "file": "frames/slime-idle_west-24.png",
+      "sha256": "a965dcde131ae5886168fab5682bc17348b667cca39b3904ed01356becdb7082",
+      "byte_length": 15590,
+      "duration_ms": 125,
+      "rect": {
+        "x": 0,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-25",
+      "file": "frames/slime-idle_west-25.png",
+      "sha256": "61bcda14fcf0a1e6053efbada969be96f68cfe80cade2c515ebf5e4e7bf66184",
+      "byte_length": 15683,
+      "duration_ms": 125,
+      "rect": {
+        "x": 178,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-26",
+      "file": "frames/slime-idle_west-26.png",
+      "sha256": "06b07fdbbaa2384d6b9965af77394afba2ce8fd4f3109eeb9c4ab9656db8ca15",
+      "byte_length": 15582,
+      "duration_ms": 125,
+      "rect": {
+        "x": 356,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-27",
+      "file": "frames/slime-idle_west-27.png",
+      "sha256": "9f6a1a7f8946af975723e6827445de9bf74da612bccae53dc38d21251ed72983",
+      "byte_length": 15641,
+      "duration_ms": 125,
+      "rect": {
+        "x": 534,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-28",
+      "file": "frames/slime-idle_west-28.png",
+      "sha256": "19e99058c69ebce6252437c9078003c06d3cbe2b3c4af936bf6fbb4c0e35494e",
+      "byte_length": 15598,
+      "duration_ms": 125,
+      "rect": {
+        "x": 712,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-29",
+      "file": "frames/slime-idle_west-29.png",
+      "sha256": "b052443ce1e5a5a651b46f6d8819891a95440c494dae8f15c0b07800db817b07",
+      "byte_length": 15559,
+      "duration_ms": 125,
+      "rect": {
+        "x": 890,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-30",
+      "file": "frames/slime-idle_west-30.png",
+      "sha256": "e48b39767706ab8a3ac83088936a75b5837ef886cc47722cd51f98c93664a7bf",
+      "byte_length": 15694,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1068,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-31",
+      "file": "frames/slime-idle_west-31.png",
+      "sha256": "7f1cc2977e4c0f719902ce35498e1477ae49214710d32d7e64bc503a0f1b197e",
+      "byte_length": 15656,
+      "duration_ms": 125,
+      "rect": {
+        "x": 1246,
+        "y": 492,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-32",
+      "file": "frames/slime-idle_west-32.png",
+      "sha256": "1ffe6aafcd40aaa3a09e8fc298c665ccaabda706e23d397d831e0ce32be0b5e6",
+      "byte_length": 15662,
+      "duration_ms": 125,
+      "rect": {
+        "x": 0,
+        "y": 656,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-33",
+      "file": "frames/slime-idle_west-33.png",
+      "sha256": "6328ba72a3dc479344128dfb6274cc84168f63e4e6928b2921cf9a74631de0ba",
+      "byte_length": 15614,
+      "duration_ms": 125,
+      "rect": {
+        "x": 178,
+        "y": 656,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-idle_west-34",
+      "file": "frames/slime-idle_west-34.png",
+      "sha256": "39840bda3638ee3eb8c902d9008f6da6f4ca1182ef73032da9eb79ecd550e93d",
+      "byte_length": 15648,
+      "duration_ms": 125,
+      "rect": {
+        "x": 356,
+        "y": 656,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 4375,
+  "loop": true
+}

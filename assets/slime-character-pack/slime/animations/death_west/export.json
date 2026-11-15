@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "slime",
+    "project_id": "slime",
+    "asset_id": "slime",
+    "version_id": "slime",
+    "character_id": "slime",
+    "action_id": "death",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1424,
+    "height": 492,
+    "sha256": "cdd4869004e2e8bea38e4085184da62a2a813dccc1d9a5883905c855571102f7",
+    "byte_length": 286067
+  },
+  "frames": [
+    {
+      "frame_id": "slime-death_west-0",
+      "file": "frames/slime-death_west-0.png",
+      "sha256": "57c5f128044ff7b366514f8df2c999ce853c123b915ab63769e2f334d7b0dcf0",
+      "byte_length": 14699,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-1",
+      "file": "frames/slime-death_west-1.png",
+      "sha256": "4bc4c71b1815a2821957cd488d148c71cad76d7fef997684d3a68be8dff1433a",
+      "byte_length": 15421,
+      "duration_ms": 71,
+      "rect": {
+        "x": 178,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-2",
+      "file": "frames/slime-death_west-2.png",
+      "sha256": "0b5f9f019373fc3c8024213b6a3fc072b696a41a1065c8796807e9d1f5523b16",
+      "byte_length": 15077,
+      "duration_ms": 71,
+      "rect": {
+        "x": 356,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-3",
+      "file": "frames/slime-death_west-3.png",
+      "sha256": "42892130d9bba64b4da3b43c122fcf6786fcfdf8668a40aa6f96a2756fee6b95",
+      "byte_length": 14924,
+      "duration_ms": 71,
+      "rect": {
+        "x": 534,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-4",
+      "file": "frames/slime-death_west-4.png",
+      "sha256": "a42e5a7424c508c26305fb329dffbaadf2d04a4668c397842f7eedeaac84b5f1",
+      "byte_length": 15005,
+      "duration_ms": 71,
+      "rect": {
+        "x": 712,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-5",
+      "file": "frames/slime-death_west-5.png",
+      "sha256": "c9323dccab7f576dc084599d8851f979379021a36bd24dbc9ec10052e1b76f19",
+      "byte_length": 14998,
+      "duration_ms": 71,
+      "rect": {
+        "x": 890,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-6",
+      "file": "frames/slime-death_west-6.png",
+      "sha256": "3bfcfebfa3a582a07049d3ac4d08bbc2a9d9fea1c67d4253d35f40be3a11928b",
+      "byte_length": 15016,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1068,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-7",
+      "file": "frames/slime-death_west-7.png",
+      "sha256": "e59fa523ea869f84591209f8786550de7e2da194bd5246d1dd653467088e6ccb",
+      "byte_length": 14969,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1246,
+        "y": 0,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-8",
+      "file": "frames/slime-death_west-8.png",
+      "sha256": "0cab5217ac6859f0b4f63c040bcd9efb61ef7766bc5d8d726dcc45ab168a5ee3",
+      "byte_length": 14763,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-9",
+      "file": "frames/slime-death_west-9.png",
+      "sha256": "c35d6e69df84235ed187c4c4a02d82f92e3d1513d85585810fb83394834adb90",
+      "byte_length": 14860,
+      "duration_ms": 71,
+      "rect": {
+        "x": 178,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-10",
+      "file": "frames/slime-death_west-10.png",
+      "sha256": "91e4b6645c2f0050629fe47563c9fe90b8fea9ab6e79ed482192c1a3ed0f14d5",
+      "byte_length": 14697,
+      "duration_ms": 71,
+      "rect": {
+        "x": 356,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-11",
+      "file": "frames/slime-death_west-11.png",
+      "sha256": "12f07113b14ea80447fe19536a13813222907a5a0ffbc8b463c52cbd3d3fe8d2",
+      "byte_length": 14515,
+      "duration_ms": 71,
+      "rect": {
+        "x": 534,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-12",
+      "file": "frames/slime-death_west-12.png",
+      "sha256": "49ed4e691cb8301f3e2696b88447522504b4223769d295d5fa0e275fe8b0c7e1",
+      "byte_length": 14219,
+      "duration_ms": 71,
+      "rect": {
+        "x": 712,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-13",
+      "file": "frames/slime-death_west-13.png",
+      "sha256": "f0921a199a37ddfbaad4f2670218716e248ffea27b4d993a9145ef2424311202",
+      "byte_length": 13983,
+      "duration_ms": 71,
+      "rect": {
+        "x": 890,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-14",
+      "file": "frames/slime-death_west-14.png",
+      "sha256": "16eed70a6f68902c5cfecafb8ad6cdae286d14a42a33df4a8e68f63239e1dd7b",
+      "byte_length": 13908,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1068,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-15",
+      "file": "frames/slime-death_west-15.png",
+      "sha256": "8d41e35daff3ddc80c64fa48945f609fac92f8d22dacba04115fa3a903d215a9",
+      "byte_length": 13656,
+      "duration_ms": 71,
+      "rect": {
+        "x": 1246,
+        "y": 164,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-16",
+      "file": "frames/slime-death_west-16.png",
+      "sha256": "fa88645d7b3aa02438d2b7c375f7d64cc74d4507ae4a082a654414baff107343",
+      "byte_length": 13257,
+      "duration_ms": 71,
+      "rect": {
+        "x": 0,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-17",
+      "file": "frames/slime-death_west-17.png",
+      "sha256": "99bc21f5adf935be64d3e04ff85167b9d88e8e2774b62bbabc5dffe3cf4f57fc",
+      "byte_length": 12750,
+      "duration_ms": 71,
+      "rect": {
+        "x": 178,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-18",
+      "file": "frames/slime-death_west-18.png",
+      "sha256": "641b9baa2aaf038f20e2979e0874e0335b3c607b9d7afe6c3860ccb4fbc6a2eb",
+      "byte_length": 12713,
+      "duration_ms": 71,
+      "rect": {
+        "x": 356,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-19",
+      "file": "frames/slime-death_west-19.png",
+      "sha256": "5643fd32903a48ce8dbb7520fe0c991802fc25ca94ae218c48149ce2bce69053",
+      "byte_length": 12720,
+      "duration_ms": 71,
+      "rect": {
+        "x": 534,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "slime-death_west-20",
+      "file": "frames/slime-death_west-20.png",
+      "sha256": "4423e9704e2c73f1645234bf55dd835dd847c5f6d95a8ef04a724d5fd2418d5d",
+      "byte_length": 12753,
+      "duration_ms": 71,
+      "rect": {
+        "x": 712,
+        "y": 328,
+        "width": 178,
+        "height": 164
+      },
+      "source_size": {
+        "width": 178,
+        "height": 164
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5842696629213483,
+        "y": 0.9329268292682927
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1491,
+  "loop": false
+}

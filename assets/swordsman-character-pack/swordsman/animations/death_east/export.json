@@ -1,0 +1,648 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "swordsman",
+    "project_id": "swordsman",
+    "asset_id": "swordsman",
+    "version_id": "swordsman",
+    "character_id": "swordsman",
+    "action_id": "death",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 3072,
+    "height": 768,
+    "sha256": "53316ab78ba8680acbf9db854b28ff3eacfeffc9d7baff418173b725958e4396",
+    "byte_length": 800803
+  },
+  "frames": [
+    {
+      "frame_id": "swordsman-death_east-0",
+      "file": "frames/swordsman-death_east-0.png",
+      "sha256": "e3a28ca2ffe7b5a268f6605c3192a5d12004bc4a2d55b6563b0fed8ef2de88e0",
+      "byte_length": 45587,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-1",
+      "file": "frames/swordsman-death_east-1.png",
+      "sha256": "cca86813e874978904d2d76e0f2dc939f7b54d38dc430abc0c8968e942c476dc",
+      "byte_length": 45670,
+      "duration_ms": 83,
+      "rect": {
+        "x": 384,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-2",
+      "file": "frames/swordsman-death_east-2.png",
+      "sha256": "3ad7e795a8e25e52d2738ac7418740e4a6d5001c77994e6d815a155913e2cfe0",
+      "byte_length": 44883,
+      "duration_ms": 83,
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-3",
+      "file": "frames/swordsman-death_east-3.png",
+      "sha256": "af49c6c3683a92558aef3c1ea072e7726d8389d7756677dc6697834b9939b02a",
+      "byte_length": 45846,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-4",
+      "file": "frames/swordsman-death_east-4.png",
+      "sha256": "83e461f16269584f91da64bf4b03eb5d0a02e58c16609d5c4354544e7c561f13",
+      "byte_length": 45012,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-5",
+      "file": "frames/swordsman-death_east-5.png",
+      "sha256": "c8856f8969a93fc9dcedb4c4e8685313b6fd8bfdbd8f5d6e6738a9ee7e376ddc",
+      "byte_length": 44595,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1920,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-6",
+      "file": "frames/swordsman-death_east-6.png",
+      "sha256": "24712efdbd3402410a9148cfb4b0c37c61a6041dcfefaee1d3d69c7e944378f0",
+      "byte_length": 43473,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-7",
+      "file": "frames/swordsman-death_east-7.png",
+      "sha256": "318ea7146f392f3153ca4dc057e252f3c4eebe616ffdab3ee9cafae7c9df529a",
+      "byte_length": 43552,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2688,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-8",
+      "file": "frames/swordsman-death_east-8.png",
+      "sha256": "a5a131e2dd3540c92b9ef585ab31fa4004a83ff7dc9145fb701843d05a69d096",
+      "byte_length": 45453,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-9",
+      "file": "frames/swordsman-death_east-9.png",
+      "sha256": "38986efe960c9ff23c5b6cf3b2aaba36236f23cc33a39358064b8bdcb06db565",
+      "byte_length": 42600,
+      "duration_ms": 83,
+      "rect": {
+        "x": 384,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-10",
+      "file": "frames/swordsman-death_east-10.png",
+      "sha256": "dadde244b0c36b2eb9fb00f688c44625097831f30240b403ce5c1efbcdbc408c",
+      "byte_length": 41736,
+      "duration_ms": 83,
+      "rect": {
+        "x": 768,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-11",
+      "file": "frames/swordsman-death_east-11.png",
+      "sha256": "6189de8400ce2ef89f032aa2cf068109d1b1d112946a7dce94f17c04a7769c7f",
+      "byte_length": 39408,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1152,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-12",
+      "file": "frames/swordsman-death_east-12.png",
+      "sha256": "b44969b03a33d08a3fdacc1e71481692fec1ba4462ca9626c6eafc51bbac1f44",
+      "byte_length": 38545,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1536,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-13",
+      "file": "frames/swordsman-death_east-13.png",
+      "sha256": "94e6e3703bc07be2bf4a088ff13f27b09e9b74b27caeae893ff61e0d45a0afc3",
+      "byte_length": 38297,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1920,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-14",
+      "file": "frames/swordsman-death_east-14.png",
+      "sha256": "5946125239ec127d4f2b6ea12e4a2c9345e818e474b585d885009e7f0b842616",
+      "byte_length": 32326,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2304,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-15",
+      "file": "frames/swordsman-death_east-15.png",
+      "sha256": "58735d7b7e079bd0b6c4cccfe9ba5449c82ef7810f96ec65586d7106be114b20",
+      "byte_length": 33755,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2688,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-16",
+      "file": "frames/swordsman-death_east-16.png",
+      "sha256": "accfa37f7da57df65289a8c1fb758150e4b841b314bd14ee01be2f320b49640f",
+      "byte_length": 32784,
+      "duration_ms": 83,
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-17",
+      "file": "frames/swordsman-death_east-17.png",
+      "sha256": "7080414ef2f004cb206be367f8d56ae30f9cc3986e4ba125f382dc4383c2ec55",
+      "byte_length": 29082,
+      "duration_ms": 83,
+      "rect": {
+        "x": 384,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-18",
+      "file": "frames/swordsman-death_east-18.png",
+      "sha256": "df60948ed6285ec86247410d217ee950879bbc22718404323eb29e6610bf0631",
+      "byte_length": 27832,
+      "duration_ms": 83,
+      "rect": {
+        "x": 768,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-19",
+      "file": "frames/swordsman-death_east-19.png",
+      "sha256": "0d399dd13a35edf94974b1388128a7bb3aa0d69aadd7e006b6f3d61fefde5ecf",
+      "byte_length": 27798,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1152,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-20",
+      "file": "frames/swordsman-death_east-20.png",
+      "sha256": "18933e7833d2d78c665872117162ee21cee9dbf1f52c70992033c92a2fdcd143",
+      "byte_length": 27906,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1536,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-21",
+      "file": "frames/swordsman-death_east-21.png",
+      "sha256": "c6881b1a0d3bf98f923e35456b991b696d30323786793c1068b60af354dad2a8",
+      "byte_length": 27818,
+      "duration_ms": 83,
+      "rect": {
+        "x": 1920,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-22",
+      "file": "frames/swordsman-death_east-22.png",
+      "sha256": "b5d45de831e63fc68e0c9f0690e2cc2880396497eecfc1b9410062e689428be0",
+      "byte_length": 28039,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2304,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-death_east-23",
+      "file": "frames/swordsman-death_east-23.png",
+      "sha256": "a9fdc60ac94e83cf62b7425269ed7358b6608e3a6ad819768d4032b451d77a6d",
+      "byte_length": 28090,
+      "duration_ms": 83,
+      "rect": {
+        "x": 2688,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.921875
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1992,
+  "loop": false
+}

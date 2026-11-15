@@ -1,0 +1,466 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "mushroom",
+    "project_id": "mushroom",
+    "asset_id": "mushroom",
+    "version_id": "mushroom",
+    "character_id": "mushroom",
+    "action_id": "death",
+    "direction": "E"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 1768,
+    "height": 468,
+    "sha256": "eb8c76e2ad1d694bf6d0899e942d5c274df22e708b8f8cc885bc8d5c1bc7ddb8",
+    "byte_length": 463978
+  },
+  "frames": [
+    {
+      "frame_id": "mushroom-death_east-0",
+      "file": "frames/mushroom-death_east-0.png",
+      "sha256": "92b495cc9df3b4e23f3e39988b5e050184c3c5b66d32e941c48680434f8fe419",
+      "byte_length": 28208,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-1",
+      "file": "frames/mushroom-death_east-1.png",
+      "sha256": "2a6e45feb8764086d0983907b1073c9fedbddfc821212965ec4346e99a7e72ac",
+      "byte_length": 29458,
+      "duration_ms": 63,
+      "rect": {
+        "x": 221,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-2",
+      "file": "frames/mushroom-death_east-2.png",
+      "sha256": "b2e59171435ab517e907b7ad030cec51601b752221405bc5e4ef5063b1f8178f",
+      "byte_length": 29191,
+      "duration_ms": 63,
+      "rect": {
+        "x": 442,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-3",
+      "file": "frames/mushroom-death_east-3.png",
+      "sha256": "8a7d5864a83c6105b8796cb9e69835861574ec3b02ba3428bccb3ff2fba551f4",
+      "byte_length": 29588,
+      "duration_ms": 63,
+      "rect": {
+        "x": 663,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-4",
+      "file": "frames/mushroom-death_east-4.png",
+      "sha256": "973064bebc8be31983e7f446a55cf5e088e8e5d4c803bfe234952bcd4eea77ad",
+      "byte_length": 28949,
+      "duration_ms": 63,
+      "rect": {
+        "x": 884,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-5",
+      "file": "frames/mushroom-death_east-5.png",
+      "sha256": "7db5a3bd2195727aee522581ef7cd00a761769273062da2cacf04e0db98d41be",
+      "byte_length": 28982,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1105,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-6",
+      "file": "frames/mushroom-death_east-6.png",
+      "sha256": "b4879bd8bcf731d230974637ac26268fffc757049a506511a0539cda2edf1046",
+      "byte_length": 28242,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1326,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-7",
+      "file": "frames/mushroom-death_east-7.png",
+      "sha256": "9ef0b72ed34d4f2d7ea51739087edcdeecfba902d02d47fdd029a5efb014a4df",
+      "byte_length": 28943,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1547,
+        "y": 0,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-8",
+      "file": "frames/mushroom-death_east-8.png",
+      "sha256": "2f7e132bc9eb4526021264099c35b65d48e6c78ea446b5bc268612d7c770176f",
+      "byte_length": 26640,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-9",
+      "file": "frames/mushroom-death_east-9.png",
+      "sha256": "6d40f7034810066e4b21b746fc770f4370a3fa74a21559685221a0356be66999",
+      "byte_length": 26490,
+      "duration_ms": 63,
+      "rect": {
+        "x": 221,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-10",
+      "file": "frames/mushroom-death_east-10.png",
+      "sha256": "1408c8a532752214c9cf80f0c9eccc095c78ff823e9af974fdaaf2d3f4de62ac",
+      "byte_length": 26967,
+      "duration_ms": 63,
+      "rect": {
+        "x": 442,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-11",
+      "file": "frames/mushroom-death_east-11.png",
+      "sha256": "08f696f0a6ca998af0a5fd44f9aae2b9740154e8769296f97b6d74ca1cf35a15",
+      "byte_length": 26902,
+      "duration_ms": 63,
+      "rect": {
+        "x": 663,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-12",
+      "file": "frames/mushroom-death_east-12.png",
+      "sha256": "dcf693ba33b38337c86ada99828c56105fd84d9e94aca0b1203874204efd987b",
+      "byte_length": 26752,
+      "duration_ms": 63,
+      "rect": {
+        "x": 884,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-13",
+      "file": "frames/mushroom-death_east-13.png",
+      "sha256": "0d8d11413bc29fe749f9dea86d142010c2ac543e273c3f9ee459e3a491c5cae5",
+      "byte_length": 26510,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1105,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-14",
+      "file": "frames/mushroom-death_east-14.png",
+      "sha256": "511252583bf2b41351e15333f252829124d515e554bf8470019951f28de6b3c8",
+      "byte_length": 27084,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1326,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-15",
+      "file": "frames/mushroom-death_east-15.png",
+      "sha256": "2fcb8661d2a59ac205a2e550331ef48fde74c61d1b7b525a5563378595a7ca57",
+      "byte_length": 27359,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1547,
+        "y": 156,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "mushroom-death_east-16",
+      "file": "frames/mushroom-death_east-16.png",
+      "sha256": "74ba7cc7dc3b9c283d50a8d8a095ed4f2421fb5123b4f510577082ad9c80f2a8",
+      "byte_length": 27377,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 312,
+        "width": 221,
+        "height": 156
+      },
+      "source_size": {
+        "width": 221,
+        "height": 156
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5384615384615384,
+        "y": 0.9166666666666666
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 1071,
+  "loop": false
+}

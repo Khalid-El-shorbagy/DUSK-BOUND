@@ -1,0 +1,1012 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-standard-v1",
+  "source": {
+    "workspace_id": "swordsman",
+    "project_id": "swordsman",
+    "asset_id": "swordsman",
+    "version_id": "swordsman",
+    "character_id": "swordsman",
+    "action_id": "attack",
+    "direction": "W"
+  },
+  "atlas": {
+    "file": "atlas.png",
+    "width": 3072,
+    "height": 1280,
+    "sha256": "97ea1d0bb78fc7ebd81f03deb8d9e1a6a4c8c47c28f59afcb15e03d71317ed71",
+    "byte_length": 1964771
+  },
+  "frames": [
+    {
+      "frame_id": "swordsman-attack_west-0",
+      "file": "frames/swordsman-attack_west-0.png",
+      "sha256": "505ba0a45b585bd712081b4ccc0339f09c06072b16b87d0c7dbced17e4261630",
+      "byte_length": 52201,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-1",
+      "file": "frames/swordsman-attack_west-1.png",
+      "sha256": "30c5beca5cf0e52078381c38ac84e677774a80076c65ff2d9d53498e267041d7",
+      "byte_length": 54600,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-2",
+      "file": "frames/swordsman-attack_west-2.png",
+      "sha256": "791a05ef31e423c71980c816b4677e7d59ebcfea90935296bb3e140a8ab7edfc",
+      "byte_length": 51636,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-3",
+      "file": "frames/swordsman-attack_west-3.png",
+      "sha256": "f734bd903706e1d10f61755a539908ac2235cf5e5d17c69b31c52594ac03455d",
+      "byte_length": 53063,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-4",
+      "file": "frames/swordsman-attack_west-4.png",
+      "sha256": "97516c24de0ef368eecb22af4069154a9e3c855e20477527465669f89af7ca8e",
+      "byte_length": 50808,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-5",
+      "file": "frames/swordsman-attack_west-5.png",
+      "sha256": "a5a4fcf3ac57794cb4623738ef440d459e54f95de5f071d4805bec843ce5ee9a",
+      "byte_length": 52182,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-6",
+      "file": "frames/swordsman-attack_west-6.png",
+      "sha256": "4087b04a7c4ba466d2be230dfcb9b4fb6f827a061f1837ee74717ad96b6c896a",
+      "byte_length": 53268,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-7",
+      "file": "frames/swordsman-attack_west-7.png",
+      "sha256": "387696220cadfdd02609e8da2b082381d96396814b48afbdf95e610242f51985",
+      "byte_length": 52333,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 0,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-8",
+      "file": "frames/swordsman-attack_west-8.png",
+      "sha256": "fda186afadf49a92d09822bb8b71eb5b09599775d3d08a80a9e3ab0e9c35a097",
+      "byte_length": 51879,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-9",
+      "file": "frames/swordsman-attack_west-9.png",
+      "sha256": "8dd8273ec9c594aa936041ca5e60e5652651ac238df065668d8e34ca15d32143",
+      "byte_length": 50701,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-10",
+      "file": "frames/swordsman-attack_west-10.png",
+      "sha256": "7d65b3e80dd28fc26c8df1bfaa18789cf3bdf8a5701e682ab9ed69dc7583ea55",
+      "byte_length": 49993,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-11",
+      "file": "frames/swordsman-attack_west-11.png",
+      "sha256": "165123a3477ecc6572389116c25f9f379beddafa86648664f204341ce573d042",
+      "byte_length": 51126,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-12",
+      "file": "frames/swordsman-attack_west-12.png",
+      "sha256": "f08f386d27094e2a56144ab4b9f70f51f0d6182ba179d03125c82a59f3f2881b",
+      "byte_length": 52209,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-13",
+      "file": "frames/swordsman-attack_west-13.png",
+      "sha256": "5ea57b385e9db7ae57ddac63ae2f50fe417cb74a446d1e800987134b22d0ccbc",
+      "byte_length": 52044,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-14",
+      "file": "frames/swordsman-attack_west-14.png",
+      "sha256": "bb444262114ebe1eb387287491890136799686d3289cd6008c7eaf61d6bd4ca3",
+      "byte_length": 51990,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-15",
+      "file": "frames/swordsman-attack_west-15.png",
+      "sha256": "c867d1372baaef7a08b2f0f3aa5ed8350e14cd34fb3320c8175ea05da5512354",
+      "byte_length": 54252,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 256,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-16",
+      "file": "frames/swordsman-attack_west-16.png",
+      "sha256": "235f0cf9ea9b1e5196c8e852a239bba608b82b32b491ab525d975dce00851e3a",
+      "byte_length": 54122,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-17",
+      "file": "frames/swordsman-attack_west-17.png",
+      "sha256": "0e86897cc05f435eba74bca95c65e0b3d936ab37debaa663b1ae8a9ed102579d",
+      "byte_length": 54451,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-18",
+      "file": "frames/swordsman-attack_west-18.png",
+      "sha256": "d262d180317666869bc9d8f0762c699e238cbdc0b8eb25f2fe0540ca5c33eeed",
+      "byte_length": 54443,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-19",
+      "file": "frames/swordsman-attack_west-19.png",
+      "sha256": "e42ed1595ae2b5e13f6d480ee0ad362c97e281126a89e50fe0312932b2e91303",
+      "byte_length": 54062,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-20",
+      "file": "frames/swordsman-attack_west-20.png",
+      "sha256": "914a2db2ead0df4905086b31ae60e4ab0aec3d76c89dfa95c606068d83911dc9",
+      "byte_length": 54172,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-21",
+      "file": "frames/swordsman-attack_west-21.png",
+      "sha256": "30bb153b92f5b9ba110e831a14783683ca29e39edfc4f43813c33767f1e3f244",
+      "byte_length": 55400,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-22",
+      "file": "frames/swordsman-attack_west-22.png",
+      "sha256": "540167bfe5e96e2577056e42bfbd5f798f2b81f00fe99a12038b23328b815d0f",
+      "byte_length": 54780,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-23",
+      "file": "frames/swordsman-attack_west-23.png",
+      "sha256": "aa5e8102fe238869bb6e1ced472654c7b2e81b9171b8efb6f33b71282950dea9",
+      "byte_length": 53267,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 512,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-24",
+      "file": "frames/swordsman-attack_west-24.png",
+      "sha256": "72a1c2787e9189b9931b22841870a0baad03ce7fc3ed195797d76f8e853c603c",
+      "byte_length": 53759,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-25",
+      "file": "frames/swordsman-attack_west-25.png",
+      "sha256": "ee89532e90412fcd61007f73db8904379f7a5674f40e20a34cd3f234e382c1aa",
+      "byte_length": 54420,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-26",
+      "file": "frames/swordsman-attack_west-26.png",
+      "sha256": "73f92bf7ed7c3f6c7be1b4ab41111812d19a72a7f174730a1dccb77a5bd1136b",
+      "byte_length": 54499,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-27",
+      "file": "frames/swordsman-attack_west-27.png",
+      "sha256": "5ea514102549b17551a5b6757c7852a4ebc347dc2d07902d6a08dcec965b76d8",
+      "byte_length": 53222,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-28",
+      "file": "frames/swordsman-attack_west-28.png",
+      "sha256": "8ad4e6d8cbff44360d5bfb31136a1241dda20d9e003e7224bf2ff5a955e9c1ca",
+      "byte_length": 51827,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-29",
+      "file": "frames/swordsman-attack_west-29.png",
+      "sha256": "1803e0c7a617c02820bfcf52f5b2620c228aeae5c4f3fa6a436215d35021cece",
+      "byte_length": 52437,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-30",
+      "file": "frames/swordsman-attack_west-30.png",
+      "sha256": "13e931ea9b16527c5aa6f37fda6977fab189ec7550ba746df74d9d9733a3645d",
+      "byte_length": 52777,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2304,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-31",
+      "file": "frames/swordsman-attack_west-31.png",
+      "sha256": "1c5ce342664215577fd6c11302108854fcef4aea01941dfd92dfd931cec1b4c9",
+      "byte_length": 51486,
+      "duration_ms": 63,
+      "rect": {
+        "x": 2688,
+        "y": 768,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-32",
+      "file": "frames/swordsman-attack_west-32.png",
+      "sha256": "da49416f84235a94d5bbdb7b5843359fcd32d16e773311fa2273f1f023c9c58c",
+      "byte_length": 50762,
+      "duration_ms": 63,
+      "rect": {
+        "x": 0,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-33",
+      "file": "frames/swordsman-attack_west-33.png",
+      "sha256": "64a7312b6c9c3306c003c910c2c39036a80549a2acc11d80a36ab2ef4516f1bb",
+      "byte_length": 51456,
+      "duration_ms": 63,
+      "rect": {
+        "x": 384,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-34",
+      "file": "frames/swordsman-attack_west-34.png",
+      "sha256": "9e43b9c0a93491bec98fa5b780aa7cd41853208ef28c295a5f3905683b5ceb14",
+      "byte_length": 52813,
+      "duration_ms": 63,
+      "rect": {
+        "x": 768,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-35",
+      "file": "frames/swordsman-attack_west-35.png",
+      "sha256": "e1fac029fad2b14e8f933f7f0d028db094fcdfd0494f5abba44737561573d773",
+      "byte_length": 53751,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1152,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-36",
+      "file": "frames/swordsman-attack_west-36.png",
+      "sha256": "40ce5723587f1bb5df7aa998f639e994e8b45e97e1216d3eb5dd68e714a4309c",
+      "byte_length": 53818,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1536,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    },
+    {
+      "frame_id": "swordsman-attack_west-37",
+      "file": "frames/swordsman-attack_west-37.png",
+      "sha256": "bd9c5e75e9112da8caae403c28d110563fbeddc432ce240f55c238370b8489a6",
+      "byte_length": 53708,
+      "duration_ms": 63,
+      "rect": {
+        "x": 1920,
+        "y": 1024,
+        "width": 384,
+        "height": 256
+      },
+      "source_size": {
+        "width": 384,
+        "height": 256
+      },
+      "trim_offset": {
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "x": 0.5625,
+        "y": 0.921875
+      },
+      "rotated": false
+    }
+  ],
+  "total_duration_ms": 2394,
+  "loop": false
+}

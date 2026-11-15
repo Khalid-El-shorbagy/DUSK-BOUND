@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "format": "spritecanvas-character-pack-v1",
+  "delivery_id": "slime",
+  "workspace_id": "slime",
+  "project_id": "slime",
+  "asset_id": "slime",
+  "character_id": "slime",
+  "animations": [
+    {
+      "name": "idle_east",
+      "action_id": "idle",
+      "direction": "east",
+      "version_id": "slime",
+      "loop": true,
+      "frame_count": 35,
+      "total_duration_ms": 4375,
+      "export": "animations/idle_east/export.json",
+      "atlas": "animations/idle_east/atlas.png",
+      "export_sha256": "4f18a4c959b9e3ca19ed0a385f21a305a9fbbfc9be7bf0b4bc3a9edf53894086",
+      "atlas_sha256": "da0d1c32ae964c642fc0c19b3d12c83bdf2e1415ef6227e0144922d1c9597797"
+    },
+    {
+      "name": "idle_west",
+      "action_id": "idle",
+      "direction": "west",
+      "version_id": "slime",
+      "loop": true,
+      "frame_count": 35,
+      "total_duration_ms": 4375,
+      "export": "animations/idle_west/export.json",
+      "atlas": "animations/idle_west/atlas.png",
+      "export_sha256": "7f896dc5673fbe2bd0dddbf8fc1628660c96e14c24eb01744c75d8c6b582c4e5",
+      "atlas_sha256": "31d61b34dd40d6dd156d300732a69a828609ce97d1fa743fc7b0a3065e87d2a6"
+    },
+    {
+      "name": "walk_east",
+      "action_id": "walk",
+      "direction": "east",
+      "version_id": "slime",
+      "loop": true,
+      "frame_count": 12,
+      "total_duration_ms": 996,
+      "export": "animations/walk_east/export.json",
+      "atlas": "animations/walk_east/atlas.png",
+      "export_sha256": "381c47c90cebbb10dca6d271bed36ec055a877d60c88bd4aa03d4a144b6881e0",
+      "atlas_sha256": "34b8de6e77b46d5fdaf6b5678aa5898eafad4fab85ba684187600c233a93be45"
+    },
+    {
+      "name": "walk_west",
+      "action_id": "walk",
+      "direction": "west",
+      "version_id": "slime",
+      "loop": true,
+      "frame_count": 12,
+      "total_duration_ms": 996,
+      "export": "animations/walk_west/export.json",
+      "atlas": "animations/walk_west/atlas.png",
+      "export_sha256": "4e681a62fcd5f1f9ccfd121487fee737d8fcd4feaeff1029a15cd31fef9bead1",
+      "atlas_sha256": "e6afe997e52f5bdb1d3b20fb16df3c1c4e990787006b5ca52abfc8886783b52c"
+    },
+    {
+      "name": "attack_east",
+      "action_id": "attack",
+      "direction": "east",
+      "version_id": "slime",
+      "loop": false,
+      "frame_count": 21,
+      "total_duration_ms": 1323,
+      "export": "animations/attack_east/export.json",
+      "atlas": "animations/attack_east/atlas.png",
+      "export_sha256": "ce7b5113be384e0c40fb93d75efd2588fd38b8f8b939cbac17428e87dc25be5b",
+      "atlas_sha256": "3a293eb42296e69adc2ac942b092aacedc9323d4058944cf57b3367cf21894ed"
+    },
+    {
+      "name": "attack_west",
+      "action_id": "attack",
+      "direction": "west",
+      "version_id": "slime",
+      "loop": false,
+      "frame_count": 21,
+      "total_duration_ms": 1323,
+      "export": "animations/attack_west/export.json",
+      "atlas": "animations/attack_west/atlas.png",
+      "export_sha256": "9126035f9a11c875209d3cc772d0bfd8dee0923ea12776220b73b3581e62109b",
+      "atlas_sha256": "d82d163bb902c504e9c03e35b0153fd4576aaaaee4c5e6563fe0679ee1e1e722"
+    },
+    {
+      "name": "hurt_east",
+      "action_id": "hurt",
+      "direction": "east",
+      "version_id": "slime",
+      "loop": false,
+      "frame_count": 8,
+      "total_duration_ms": 504,
+      "export": "animations/hurt_east/export.json",
+      "atlas": "animations/hurt_east/atlas.png",
+      "export_sha256": "cf12b96be1b8040763b7462ebaac0335af4b268f34f46e147541e110acbbcd83",
+      "atlas_sha256": "e9f8e31e59a8a7823c45a65e0fac802684276d558bea857f04588c4607335b98"
+    },
+    {
+      "name": "hurt_west",
+      "action_id": "hurt",
+      "direction": "west",
+      "version_id": "slime",
+      "loop": false,
+      "frame_count": 8,
+      "total_duration_ms": 504,
+      "export": "animations/hurt_west/export.json",
+      "atlas": "animations/hurt_west/atlas.png",
+      "export_sha256": "c65df7aa4bed04ea0fa10ed9efba825b37d2f8893350260c05a90cc29810ec73",
+      "atlas_sha256": "0bb99c553f6743369ca6b336ca68576ce5f8f92e3a040fbc696dd5a311fe6039"
+    },
+    {
+      "name": "death_east",
+      "action_id": "death",
+      "direction": "east",
+      "version_id": "slime",
+      "loop": false,
+      "frame_count": 21,
+      "total_duration_ms": 1491,
+      "export": "animations/death_east/export.json",
+      "atlas": "animations/death_east/atlas.png",
+      "export_sha256": "579d89562d29fce35485ced90f51d3dae3409d5e45336c045dabcc3b0c370e72",
+      "atlas_sha256": "6cd48819b21d226bb3cc5955ec19431cd514274620a5d74593590f5482495a3b"
+    },
+    {
+      "name": "death_west",
+      "action_id": "death",
+      "direction": "west",
+      "version_id": "slime",
+      "loop": false,
+      "frame_count": 21,
+      "total_duration_ms": 1491,
+      "export": "animations/death_west/export.json",
+      "atlas": "animations/death_west/atlas.png",
+      "export_sha256": "a8cc9f9bcd3c2a1b085dfe716325fd46a343cd58cb76986ba997b4568c3e519f",
+      "atlas_sha256": "cdd4869004e2e8bea38e4085184da62a2a813dccc1d9a5883905c855571102f7"
+    }
+  ],
+  "godot": {
+    "sprite_frames": "godot/character.tres",
+    "scene": "godot/character.tscn",
+    "pivot_anchor": {
+      "x": 104,
+      "y": 153
+    }
+  }
+}
