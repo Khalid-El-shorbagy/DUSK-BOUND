@@ -1390,7 +1390,7 @@ class Player extends Actor {
     if (
       (this.anim === "attack" || this.anim === "skill") &&
       !this.hitDone &&
-      this.time >= this.dur() * 0.4
+      this.time >= this.dur() * 0.3
     ) {
       this.hitDone = true;
       this.strike(this.anim);
