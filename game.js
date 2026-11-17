@@ -9,7 +9,7 @@ const DUR = {
   run: 0.7,
   walk: 0.8,
   jump: 0.8,
-  attack: 0.5,
+  attack: 0.35,
   skill: 0.8,
   hurt: 0.35,
   death: 0.9,
@@ -1390,7 +1390,7 @@ class Player extends Actor {
     if (
       (this.anim === "attack" || this.anim === "skill") &&
       !this.hitDone &&
-      this.time >= this.dur() * 0.3
+      this.time >= this.dur() * 0.15
     ) {
       this.hitDone = true;
       this.strike(this.anim);
